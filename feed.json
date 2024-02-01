@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://plumey.micro.blog/2024/01/26/first-doctors-appointment.html",
+				
+				"content_html": "<p>First doctor’s appointment in years. Nothing serious but just haven’t been. Blood work done. Now it’s time to eat!</p>\n",
+				"content_text": "First doctor’s appointment in years. Nothing serious but just haven’t been. Blood work done. Now it’s time to eat!\n",
+				"date_published": "2024-01-26T12:06:06-05:00",
+				"url": "https://javier.plumey.com/2024/01/26/first-doctors-appointment.html"
+			},
+			{
 				"id": "http://plumey.micro.blog/2024/01/23/i-just-interviewed.html",
 				
 				"content_html": "<p>I just interviewed a wonderful guest for an upcoming episode of Redeemer. If you’re a fan of The Chosen, you’ll be interested in this one. I’ll post a link as soon as it goes live!🎙️</p>\n",
