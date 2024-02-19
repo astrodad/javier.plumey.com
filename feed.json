@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://plumey.micro.blog/2024/02/18/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780679763888\">The Warmth of Other Suns</a> by Isabel Wilkerson 📚</p>\n<p>This is my next read. My wife loved it and recommended it. I love the excitement of starting a new book!</p>\n",
+				"content_text": "Currently reading: [The Warmth of Other Suns](https://micro.blog/books/9780679763888) by Isabel Wilkerson 📚\n\nThis is my next read. My wife loved it and recommended it. I love the excitement of starting a new book!\n",
+				"date_published": "2024-02-18T21:07:39-05:00",
+				"url": "https://javier.plumey.com/2024/02/18/currently-reading-the.html"
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/18/system-collapse-by.html",
+				"title": "System Collapse by Martha Wells: ⭐︎⭐︎⭐︎⭐︎  ",
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250826985\">System Collapse</a> by Martha Wells 📚</p>\n<p>Longer review coming soon. Thoroughly enjoyable, with tantalizing bits that could be fleshed out even more.</p>\n",
+				"content_text": "\nFinished reading: [System Collapse](https://micro.blog/books/9781250826985) by Martha Wells 📚\n\nLonger review coming soon. Thoroughly enjoyable, with tantalizing bits that could be fleshed out even more. \n",
+				"date_published": "2024-02-18T20:13:43-05:00",
+				"url": "https://javier.plumey.com/2024/02/18/system-collapse-by.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/18/red-robin-gourmet.html",
+				
+				"content_html": "<p>Haven’t been to Red Robin in ages, but my youngest felt like a burger and I haven’t had one since I started my diet.</p>\n",
+				"content_text": "Haven’t been to Red Robin in ages, but my youngest felt like a burger and I haven’t had one since I started my diet.\n",
+				"date_published": "2024-02-18T17:49:15-05:00",
+				"url": "https://javier.plumey.com/2024/02/18/red-robin-gourmet.html"
+			},
+			{
 				"id": "http://plumey.micro.blog/2024/02/17/had-a-successful.html",
 				
 				"content_html": "<p>Had a successful date night with my wife. With all of the craziness of this week with my dad’s passing, work, volunteering, and the 2nd and 3rd jobs, we needed to munch on hummus and pita, sip some drinks, and enjoy an evening just relaxing together.</p>\n",
@@ -43,8 +68,8 @@
 			{
 				"id": "http://plumey.micro.blog/2024/02/15/traffic-in-the.html",
 				
-				"content_html": "<p>Traffic in the tunnel this morning is very slow. No accidents just people driving slowly.</p>\n<p><a href=\"https://javier.plumey.com/uploads/2024/090955d9-acc5-4945-903d-2894a802d49c.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"42e0aaf59f19528d5c30de6f9c579352\"\n   \n>\n  <img src =\"https://javier.plumey.com/uploads/2024/090955d9-acc5-4945-903d-2894a802d49c.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Traffic driving through an illuminated tunnel, with red lights reflected on the ceiling and vehicles ahead.\" \n        \n  />\n</a>\n\n</p>\n",
-				"content_text": "Traffic in the tunnel this morning is very slow. No accidents just people driving slowly.\n\n![Traffic driving through an illuminated tunnel, with red lights reflected on the ceiling and vehicles ahead.](https://javier.plumey.com/uploads/2024/090955d9-acc5-4945-903d-2894a802d49c.jpg)\n\n",
+				"content_html": "<p>Traffic in the tunnel this morning is very slow. No accidents just people driving slowly.</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/090955d9-acc5-4945-903d-2894a802d49c.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"42e0aaf59f19528d5c30de6f9c579352\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/090955d9-acc5-4945-903d-2894a802d49c.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Traffic driving through an illuminated tunnel, with red lights reflected on the ceiling and vehicles ahead.\" \n        \n  />\n</a>\n\n</p>\n",
+				"content_text": "Traffic in the tunnel this morning is very slow. No accidents just people driving slowly.\n\n![Traffic driving through an illuminated tunnel, with red lights reflected on the ceiling and vehicles ahead.](https://cdn.uploads.micro.blog/27737/2024/090955d9-acc5-4945-903d-2894a802d49c.jpg)\n\n",
 				"date_published": "2024-02-15T07:43:48-05:00",
 				"url": "https://javier.plumey.com/2024/02/15/traffic-in-the.html",
 				"tags": ["life"]
