@@ -2,25 +2,159 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Javier Plumey",
 	"icon": "https://micro.blog/plumey/avatar.jpg",
-	"home_page_url": "https://javier.plumey.com/",
-	"feed_url": "https://javier.plumey.com/feed.json",
+	"home_page_url": "https://plumey.com/",
+	"feed_url": "https://plumey.com/feed.json",
 	"items": [
 		
+			{
+				"id": "http://plumey.micro.blog/2024/02/23/traveling-for-my.html",
+				
+				"content_html": "<p>Traveling for my dad’s funeral and I am pleasantly and generally surprised how many people are ordering this.</p>\n<p><a href=\"https://plumey.com/uploads/2024/47281c6d-0410-4a8f-a313-1d8d439ccd7d.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"fa9b14e00149f6d5bda549966589ca08\"\n   \n>\n  <img src =\"https://plumey.com/uploads/2024/47281c6d-0410-4a8f-a313-1d8d439ccd7d.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A McDonald&amp;rsquo;s Filet-O-Fish sandwich box on a table top. The box is partially open and the Marine Stewardship Council (MSC) eco-label is visible, indicating that the fish is sustainably sourced.\" \n        \n  />\n</a>\n\n</p>\n",
+				"content_text": "Traveling for my dad’s funeral and I am pleasantly and generally surprised how many people are ordering this. \n\n![A McDonald's Filet-O-Fish sandwich box on a table top. The box is partially open and the Marine Stewardship Council (MSC) eco-label is visible, indicating that the fish is sustainably sourced.](https://plumey.com/uploads/2024/47281c6d-0410-4a8f-a313-1d8d439ccd7d.jpg)\n\n",
+				"date_published": "2024-02-23T19:11:08-05:00",
+				"url": "https://plumey.com/2024/02/23/traveling-for-my.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/22/emotions-are-so.html",
+				
+				"content_html": "<p>Emotions are so tiring. Some stuff came up while finishing up a memorial video for my dad and now I’m wiped.</p>\n",
+				"content_text": "Emotions are so tiring. Some stuff came up while finishing up a memorial video for my dad and now I’m wiped. \n",
+				"date_published": "2024-02-22T21:51:52-05:00",
+				"url": "https://plumey.com/2024/02/22/emotions-are-so.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/22/im-so-glad.html",
+				
+				"content_html": "<p>I’m so glad I pulled all my data off Reddit before I left.  No way I want Google tuning their models from my posts.</p>\n",
+				"content_text": "I’m so glad I pulled all my data off Reddit before I left.  No way I want Google tuning their models from my posts. \n",
+				"date_published": "2024-02-22T20:00:43-05:00",
+				"url": "https://plumey.com/2024/02/22/im-so-glad.html",
+				"tags": ["tech"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/22/assisted-with-a.html",
+				
+				"content_html": "<p>Assisted with a day of training and retreat for people that work in family ministry. Check out <a href=\"https://www.enkindlecatholic.org\">enkindlecatholic.org</a> more more info.</p>\n<p><a href=\"https://plumey.com/uploads/2024/e8dfbbb9-cd37-4182-a769-c036a360df72.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"a665dd496333a91513568d7314a225b0\"\n   \n>\n  <img src =\"https://plumey.com/uploads/2024/e8dfbbb9-cd37-4182-a769-c036a360df72.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Inside of a church with a person standing near the altar holding a microphone, pews, liturgical decorations, and banners on the walls.\" \n        \n  />\n</a>\n\n</p>\n",
+				"content_text": "Assisted with a day of training and retreat for people that work in family ministry. Check out [enkindlecatholic.org](https://www.enkindlecatholic.org) more more info. \n\n![Inside of a church with a person standing near the altar holding a microphone, pews, liturgical decorations, and banners on the walls.](https://plumey.com/uploads/2024/e8dfbbb9-cd37-4182-a769-c036a360df72.jpg)\n\n\n",
+				"date_published": "2024-02-22T14:23:32-05:00",
+				"url": "https://plumey.com/2024/02/22/assisted-with-a.html"
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/21/i-pray-lead.html",
+				
+				"content_html": "<p>I pray “lead me not into temptation” every time I walk into a Costco.</p>\n",
+				"content_text": "I pray “lead me not into temptation” every time I walk into a Costco. \n",
+				"date_published": "2024-02-21T14:10:05-05:00",
+				"url": "https://plumey.com/2024/02/21/i-pray-lead.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/21/ugh-working-on.html",
+				
+				"content_html": "<p>Ugh, working on this slideshow for my dad&rsquo;s funeral is not easy.</p>\n",
+				"content_text": "Ugh, working on this slideshow for my dad's funeral is not easy.\n",
+				"date_published": "2024-02-21T13:18:09-05:00",
+				"url": "https://plumey.com/2024/02/21/ugh-working-on.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/21/agility-what-used.html",
+				
+				"content_html": "<p>Agility (what used to be Version One) is quite possibly the web app that I hate using the most. It has a ridiculous amount of wasted space on-screen and the description editor is so unintuitive that I edit somewhere else and copy/paste into the app. Unfortunately, my team is required to use it. Anyone have any good hacks to make this terrible product more usable?</p>\n",
+				"content_text": "Agility (what used to be Version One) is quite possibly the web app that I hate using the most. It has a ridiculous amount of wasted space on-screen and the description editor is so unintuitive that I edit somewhere else and copy/paste into the app. Unfortunately, my team is required to use it. Anyone have any good hacks to make this terrible product more usable? \n\n",
+				"date_published": "2024-02-21T11:11:10-05:00",
+				"url": "https://plumey.com/2024/02/21/agility-what-used.html",
+				"tags": ["tech"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/21/this-is-a.html",
+				
+				"content_html": "<p>This is a weekly podcast I produce for families to sit and listen together. Kids understand it and parents don’t cringe!</p>\n<p><a href=\"https://hub.onebestthing.org/posts/enkindle-199-022524-suffering-will-not-win\">https://hub.onebestthing.org/posts/enkindle-199-022524-suffering-will-not-win\n</a></p>\n",
+				"content_text": "This is a weekly podcast I produce for families to sit and listen together. Kids understand it and parents don’t cringe!\n\n[https://hub.onebestthing.org/posts/enkindle-199-022524-suffering-will-not-win\n](https://hub.onebestthing.org/posts/enkindle-199-022524-suffering-will-not-win)\n",
+				"date_published": "2024-02-21T09:57:15-05:00",
+				"url": "https://plumey.com/2024/02/21/this-is-a.html",
+				"tags": ["faith","family"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/20/am-i-the.html",
+				
+				"content_html": "<p>Am I the only one who likes to read the release notes when there are updates to apps? I don’t read them all, but if something catches my eye I’ll read the update and manually update that app first.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Am I the only one who likes to read the release notes when there are updates to apps? I don’t read them all, but if something catches my eye I’ll read the update and manually update that app first. \n\n<img src=\"https://cdn.uploads.micro.blog/27737/2024/8b8b5d46ed.jpg\" width=\"276\" height=\"600\" alt=\"A screenshot of the Apple App Store with a bunch of apps needing to be updated.\">\n",
+				"date_published": "2024-02-20T21:47:07-05:00",
+				"url": "https://plumey.com/2024/02/20/am-i-the.html",
+				"tags": ["tech"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/20/i-prefer-to.html",
+				
+				"content_html": "<p>I prefer to listen to audiobooks using the excellent Prologue app, which works with an audiobook library on my Plex server. I buy DRM-free audio and host it myself so I always have access to my library.</p>\n<p>Check it out: <a href=\"https://apps.apple.com/us/app/prologue/id1459223267\">apps.apple.com/us/app/pr&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I prefer to listen to audiobooks using the excellent Prologue app, which works with an audiobook library on my Plex server. I buy DRM-free audio and host it myself so I always have access to my library. \n\nCheck it out: [apps.apple.com/us/app/pr...](https://apps.apple.com/us/app/prologue/id1459223267)\n\n<img src=\"https://cdn.uploads.micro.blog/27737/2024/51a96f4b26.png\" width=\"276\" height=\"600\" alt=\"A screen shot of an app called Prologue that's currently playing an audiobook of The Warmth of Other Suns, a book by Isabel Wilkerson.\">\n",
+				"date_published": "2024-02-20T15:16:33-05:00",
+				"url": "https://plumey.com/2024/02/20/i-prefer-to.html",
+				"tags": ["tech"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/20/when-you-think.html",
+				
+				"content_html": "<p>When you think you’re ordering three windscreens and you actually ordered three packs of four.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "When you think you’re ordering three windscreens and you actually ordered three packs of four. \n\n<img src=\"https://cdn.uploads.micro.blog/27737/2024/78325f7875.jpg\" width=\"450\" height=\"600\" alt=\"A box of 12 wind screens, way more than the author intended to buy.\">\n",
+				"date_published": "2024-02-20T13:31:11-05:00",
+				"url": "https://plumey.com/2024/02/20/when-you-think.html",
+				"tags": ["tech"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/20/the-chosen-season.html",
+				
+				"content_html": "<p>The Chosen Season 1, Episode 1: &ldquo;I Have Called You by Name&rdquo; - ★★★☆☆</p>\n<p>The first time I watched this episode (and subsequently gave up on The Chosen) was back in 2017. There has been a lot more hype around this show since then, and I was surprised that I enjoyed it more this time than the first.</p>\n",
+				"content_text": "The Chosen Season 1, Episode 1: \"I Have Called You by Name\" - ★★★☆☆\n\nThe first time I watched this episode (and subsequently gave up on The Chosen) was back in 2017. There has been a lot more hype around this show since then, and I was surprised that I enjoyed it more this time than the first. \n",
+				"date_published": "2024-02-20T11:38:52-05:00",
+				"url": "https://plumey.com/2024/02/20/the-chosen-season.html",
+				"tags": ["tv"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/19/lent-is-a.html",
+				
+				"content_html": "<p>Lent is a season of penitence, sacrifice, and sometimes a little discomfort. I am therefore watching The Chosen 🙃</p>\n<p>I jest, but I have resisted. More to come on why soon…</p>\n",
+				"content_text": "Lent is a season of penitence, sacrifice, and sometimes a little discomfort. I am therefore watching The Chosen 🙃\n\nI jest, but I have resisted. More to come on why soon…\n",
+				"date_published": "2024-02-19T21:39:04-05:00",
+				"url": "https://plumey.com/2024/02/19/lent-is-a.html",
+				"tags": ["faith"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/19/younger-me-would.html",
+				
+				"content_html": "<p>Younger me would never have appreciated receiving flowers when a loved one had passed. Present time is grateful for the people who sent them.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Younger me would never have appreciated receiving flowers when a loved one had passed. Present time is grateful for the people who sent them. \n\n<img src=\"https://cdn.uploads.micro.blog/27737/2024/eb211717fe.jpg\" width=\"450\" height=\"600\" alt=\"Three bouquets of sympathy flowers.\">\n",
+				"date_published": "2024-02-19T19:51:55-05:00",
+				"url": "https://plumey.com/2024/02/19/younger-me-would.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/19/created-a-checkin.html",
+				"title": "Micro.blog Check-In Shortcut",
+				"content_html": "<p>Created a Check-In Shortcut that allows me to search for a venue, select it from a list, add a note, select a category, and then optionally upload a photo, and then post that info to a secondary (currently hidden) micro.blog blog. This blog has a customized theme optimized (sort of) for these check-ins. I&rsquo;m still figuring out how I want to expose this to my friends. But the shortcut works really well and now I don&rsquo;t have to rely on OwnYourSwarm to do this for me. The only thing missing right now is that there&rsquo;s no link back to a website about the venue. I am going to clean up the shortcut and offer it up to share once I figure out how to do that 😆.</p>\n<p>Update: <a href=\"https://www.icloud.com/shortcuts/d28c07e7cd2946eab08c790128ede4c4\">Here is the link for the Micro.Blog Check-In Shortcut</a></p>\n",
+				"content_text": "Created a Check-In Shortcut that allows me to search for a venue, select it from a list, add a note, select a category, and then optionally upload a photo, and then post that info to a secondary (currently hidden) micro.blog blog. This blog has a customized theme optimized (sort of) for these check-ins. I'm still figuring out how I want to expose this to my friends. But the shortcut works really well and now I don't have to rely on OwnYourSwarm to do this for me. The only thing missing right now is that there's no link back to a website about the venue. I am going to clean up the shortcut and offer it up to share once I figure out how to do that 😆.\n\nUpdate: [Here is the link for the Micro.Blog Check-In Shortcut](https://www.icloud.com/shortcuts/d28c07e7cd2946eab08c790128ede4c4)\n",
+				"date_published": "2024-02-19T17:56:02-05:00",
+				"url": "https://plumey.com/2024/02/19/created-a-checkin.html",
+				"tags": ["tech"]
+			},
 			{
 				"id": "http://plumey.micro.blog/2024/02/18/currently-reading-the.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780679763888\">The Warmth of Other Suns</a> by Isabel Wilkerson 📚</p>\n<p>This is my next read. My wife loved it and recommended it. I love the excitement of starting a new book!</p>\n",
 				"content_text": "Currently reading: [The Warmth of Other Suns](https://micro.blog/books/9780679763888) by Isabel Wilkerson 📚\n\nThis is my next read. My wife loved it and recommended it. I love the excitement of starting a new book!\n",
 				"date_published": "2024-02-18T21:07:39-05:00",
-				"url": "https://javier.plumey.com/2024/02/18/currently-reading-the.html"
+				"url": "https://plumey.com/2024/02/18/currently-reading-the.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/02/18/system-collapse-by.html",
-				"title": "System Collapse by Martha Wells: ⭐︎⭐︎⭐︎⭐︎  ",
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250826985\">System Collapse</a> by Martha Wells 📚</p>\n<p>Longer review coming soon. Thoroughly enjoyable, with tantalizing bits that could be fleshed out even more.</p>\n",
-				"content_text": "\nFinished reading: [System Collapse](https://micro.blog/books/9781250826985) by Martha Wells 📚\n\nLonger review coming soon. Thoroughly enjoyable, with tantalizing bits that could be fleshed out even more. \n",
+				"title": "System Collapse by Martha Wells: ★★★★☆",
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250826985\">System Collapse</a> by Martha Wells 📚</p>\n<p>Thoroughly enjoyable, with tantalizing bits that could be fleshed out even more.</p>\n",
+				"content_text": "\nFinished reading: [System Collapse](https://micro.blog/books/9781250826985) by Martha Wells 📚\n\nThoroughly enjoyable, with tantalizing bits that could be fleshed out even more. \n",
 				"date_published": "2024-02-18T20:13:43-05:00",
-				"url": "https://javier.plumey.com/2024/02/18/system-collapse-by.html",
+				"url": "https://plumey.com/2024/02/18/system-collapse-by.html",
 				"tags": ["books"]
 			},
 			{
@@ -29,7 +163,7 @@
 				"content_html": "<p>Haven’t been to Red Robin in ages, but my youngest felt like a burger and I haven’t had one since I started my diet.</p>\n",
 				"content_text": "Haven’t been to Red Robin in ages, but my youngest felt like a burger and I haven’t had one since I started my diet.\n",
 				"date_published": "2024-02-18T17:49:15-05:00",
-				"url": "https://javier.plumey.com/2024/02/18/red-robin-gourmet.html"
+				"url": "https://plumey.com/2024/02/18/red-robin-gourmet.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/02/17/had-a-successful.html",
@@ -37,7 +171,7 @@
 				"content_html": "<p>Had a successful date night with my wife. With all of the craziness of this week with my dad’s passing, work, volunteering, and the 2nd and 3rd jobs, we needed to munch on hummus and pita, sip some drinks, and enjoy an evening just relaxing together.</p>\n",
 				"content_text": "Had a successful date night with my wife. With all of the craziness of this week with my dad’s passing, work, volunteering, and the 2nd and 3rd jobs, we needed to munch on hummus and pita, sip some drinks, and enjoy an evening just relaxing together. \n",
 				"date_published": "2024-02-17T22:45:35-05:00",
-				"url": "https://javier.plumey.com/2024/02/17/had-a-successful.html",
+				"url": "https://plumey.com/2024/02/17/had-a-successful.html",
 				"tags": ["life"]
 			},
 			{
@@ -46,7 +180,7 @@
 				"content_html": "<p>Organizing our storage closet/pantry/laundry room was such a therapeutic experience that now I&rsquo;m energized to tackle the kitchen.</p>\n",
 				"content_text": "Organizing our storage closet/pantry/laundry room was such a therapeutic experience that now I'm energized to tackle the kitchen.\n",
 				"date_published": "2024-02-17T16:37:37-05:00",
-				"url": "https://javier.plumey.com/2024/02/17/organizing-our-storage.html"
+				"url": "https://plumey.com/2024/02/17/organizing-our-storage.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/02/16/dropped-off-the.html",
@@ -54,7 +188,7 @@
 				"content_html": "<p>Dropped off the boy to hang out with friends. It&rsquo;s supposed to be around mid 30&rsquo;s (F) tonight and they are outside hanging out. Ok, when I was a kid, 30&rsquo;s seemed like Day After Tomorrow weather, but this kid seems to dig it.</p>\n",
 				"content_text": "Dropped off the boy to hang out with friends. It's supposed to be around mid 30's (F) tonight and they are outside hanging out. Ok, when I was a kid, 30's seemed like Day After Tomorrow weather, but this kid seems to dig it.\n",
 				"date_published": "2024-02-16T20:04:56-05:00",
-				"url": "https://javier.plumey.com/2024/02/16/dropped-off-the.html"
+				"url": "https://plumey.com/2024/02/16/dropped-off-the.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/02/15/even-though-we.html",
@@ -62,7 +196,7 @@
 				"content_html": "<p>Even though we knew this was going to happen, it’s not easy to hear or bear the news that my father has just passed away. I’ve had years to prepare for this moment but I’m still at a loss.</p>\n",
 				"content_text": "Even though we knew this was going to happen, it’s not easy to hear or bear the news that my father has just passed away. I’ve had years to prepare for this moment but I’m still at a loss. \n",
 				"date_published": "2024-02-15T20:12:51-05:00",
-				"url": "https://javier.plumey.com/2024/02/15/even-though-we.html",
+				"url": "https://plumey.com/2024/02/15/even-though-we.html",
 				"tags": ["life"]
 			},
 			{
@@ -71,25 +205,25 @@
 				"content_html": "<p>Traffic in the tunnel this morning is very slow. No accidents just people driving slowly.</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/090955d9-acc5-4945-903d-2894a802d49c.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"42e0aaf59f19528d5c30de6f9c579352\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/090955d9-acc5-4945-903d-2894a802d49c.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Traffic driving through an illuminated tunnel, with red lights reflected on the ceiling and vehicles ahead.\" \n        \n  />\n</a>\n\n</p>\n",
 				"content_text": "Traffic in the tunnel this morning is very slow. No accidents just people driving slowly.\n\n![Traffic driving through an illuminated tunnel, with red lights reflected on the ceiling and vehicles ahead.](https://cdn.uploads.micro.blog/27737/2024/090955d9-acc5-4945-903d-2894a802d49c.jpg)\n\n",
 				"date_published": "2024-02-15T07:43:48-05:00",
-				"url": "https://javier.plumey.com/2024/02/15/traffic-in-the.html",
+				"url": "https://plumey.com/2024/02/15/traffic-in-the.html",
 				"tags": ["life"]
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/02/14/always-a-privilege.html",
 				
-				"content_html": "<p>Always a privilege to do music here, even if it is just a rehearsal. This is the Saint Augustine, campus of the Catholic Community of Ascension and Saint Augustine.</p>\n<p><a href=\"https://javier.plumey.com/uploads/2024/ac60e419-b913-4f5e-b3da-30d3a36ed9de.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"8326ba73395cf87c2e45f703841b0922\"\n   \n>\n  <img src =\"https://javier.plumey.com/uploads/2024/ac60e419-b913-4f5e-b3da-30d3a36ed9de.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Church illuminated with green lighting at night, featuring a rosary window and a round tower. Adjacent to the church, a modern building with white exterior walls is visible.\" \n        \n  />\n</a>\n\n</p>\n",
-				"content_text": "Always a privilege to do music here, even if it is just a rehearsal. This is the Saint Augustine, campus of the Catholic Community of Ascension and Saint Augustine.\n\n![Church illuminated with green lighting at night, featuring a rosary window and a round tower. Adjacent to the church, a modern building with white exterior walls is visible.](https://javier.plumey.com/uploads/2024/ac60e419-b913-4f5e-b3da-30d3a36ed9de.jpg)\n\n",
+				"content_html": "<p>Always a privilege to do music here, even if it is just a rehearsal. This is the Saint Augustine, campus of the Catholic Community of Ascension and Saint Augustine.</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/ac60e419-b913-4f5e-b3da-30d3a36ed9de.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"8326ba73395cf87c2e45f703841b0922\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/ac60e419-b913-4f5e-b3da-30d3a36ed9de.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Church illuminated with green lighting at night, featuring a rosary window and a round tower. Adjacent to the church, a modern building with white exterior walls is visible.\" \n        \n  />\n</a>\n\n</p>\n",
+				"content_text": "Always a privilege to do music here, even if it is just a rehearsal. This is the Saint Augustine, campus of the Catholic Community of Ascension and Saint Augustine.\n\n![Church illuminated with green lighting at night, featuring a rosary window and a round tower. Adjacent to the church, a modern building with white exterior walls is visible.](https://cdn.uploads.micro.blog/27737/2024/ac60e419-b913-4f5e-b3da-30d3a36ed9de.jpg)\n\n",
 				"date_published": "2024-02-14T20:35:11-05:00",
-				"url": "https://javier.plumey.com/2024/02/14/always-a-privilege.html",
+				"url": "https://plumey.com/2024/02/14/always-a-privilege.html",
 				"tags": ["life"]
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/02/14/ash-wednesday-isnt.html",
 				
-				"content_html": "<p>Ash Wednesday isn’t about abstinence and fasting, but rather about recognizing the love of God and how we fall short of realizing it in our every day lives.</p>\n<p><a href=\"https://javier.plumey.com/uploads/2024/0cf06c14-166c-40a5-abf2-51965d68b0b9.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"78c534c63e4beeace512205c24329dd2\"\n   \n>\n  <img src =\"https://javier.plumey.com/uploads/2024/0cf06c14-166c-40a5-abf2-51965d68b0b9.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"The image features an inspirational quote from the Bible, John 13:34-35, displayed over a colorful, abstract background. The text says: &amp;ldquo;As I have loved you, so you must love one another. By this everyone will know that\" \n        \n  />\n</a>\n\n</p>\n",
-				"content_text": "Ash Wednesday isn’t about abstinence and fasting, but rather about recognizing the love of God and how we fall short of realizing it in our every day lives. \n\n![The image features an inspirational quote from the Bible, John 13:34-35, displayed over a colorful, abstract background. The text says: \"As I have loved you, so you must love one another. By this everyone will know that](https://javier.plumey.com/uploads/2024/0cf06c14-166c-40a5-abf2-51965d68b0b9.jpg)\n\n",
+				"content_html": "<p>Ash Wednesday isn’t about abstinence and fasting, but rather about recognizing the love of God and how we fall short of realizing it in our every day lives.</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/0cf06c14-166c-40a5-abf2-51965d68b0b9.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"78c534c63e4beeace512205c24329dd2\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/0cf06c14-166c-40a5-abf2-51965d68b0b9.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"The image features an inspirational quote from the Bible, John 13:34-35, displayed over a colorful, abstract background. The text says: &amp;ldquo;As I have loved you, so you must love one another. By this everyone will know that\" \n        \n  />\n</a>\n\n</p>\n",
+				"content_text": "Ash Wednesday isn’t about abstinence and fasting, but rather about recognizing the love of God and how we fall short of realizing it in our every day lives. \n\n![The image features an inspirational quote from the Bible, John 13:34-35, displayed over a colorful, abstract background. The text says: \"As I have loved you, so you must love one another. By this everyone will know that](https://cdn.uploads.micro.blog/27737/2024/0cf06c14-166c-40a5-abf2-51965d68b0b9.jpg)\n\n",
 				"date_published": "2024-02-14T06:40:20-05:00",
-				"url": "https://javier.plumey.com/2024/02/14/ash-wednesday-isnt.html",
+				"url": "https://plumey.com/2024/02/14/ash-wednesday-isnt.html",
 				"tags": ["faith"]
 			},
 			{
@@ -98,7 +232,7 @@
 				"content_html": "<p>Decided to do less “giving up” for Lent this year and instead do more “looking up”, meaning that I’m going to focus on making more of my every day moments God-centered, so as to allow him to be an even more important part of my every day life.</p>\n<p>I’m praying that this means I’ll find more opportunities to give him permission to shape the course of my life and that more of my daily encounters are full of love and compassion.</p>\n",
 				"content_text": "Decided to do less “giving up” for Lent this year and instead do more “looking up”, meaning that I’m going to focus on making more of my every day moments God-centered, so as to allow him to be an even more important part of my every day life. \n\nI’m praying that this means I’ll find more opportunities to give him permission to shape the course of my life and that more of my daily encounters are full of love and compassion. \n",
 				"date_published": "2024-02-13T21:19:39-05:00",
-				"url": "https://javier.plumey.com/2024/02/13/giving-up-less.html",
+				"url": "https://plumey.com/2024/02/13/giving-up-less.html",
 				"tags": ["faith"]
 			},
 			{
@@ -107,15 +241,15 @@
 				"content_html": "<p>Working on grouping posts by day and also some site colors. I&rsquo;m currently stuck in the formatting and grouping of days so that I can apply a background.</p>\n",
 				"content_text": "Working on grouping posts by day and also some site colors. I'm currently stuck in the formatting and grouping of days so that I can apply a background. \n",
 				"date_published": "2024-02-13T17:53:59-05:00",
-				"url": "https://javier.plumey.com/2024/02/13/working-on-grouping.html"
+				"url": "https://plumey.com/2024/02/13/working-on-grouping.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/02/13/what-i-cant.html",
 				
 				"content_html": "<p>What?!? I can&rsquo;t lock a note with a PDF document? #apple #macOS</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What?!? I can't lock a note with a PDF document? #apple #macOS\n\n<img src=\"uploads/2024/screenshotnotes2024-02-13-at-12.17.37.png\" width=\"262\" height=\"235\" alt=\"\">\n",
+				"content_text": "What?!? I can't lock a note with a PDF document? #apple #macOS\n\n<img src=\"https://cdn.uploads.micro.blog/27737/2024/screenshotnotes2024-02-13-at-12.17.37.png\" width=\"262\" height=\"235\" alt=\"\">\n",
 				"date_published": "2024-02-13T12:19:07-05:00",
-				"url": "https://javier.plumey.com/2024/02/13/what-i-cant.html",
+				"url": "https://plumey.com/2024/02/13/what-i-cant.html",
 				"tags": ["tech"]
 			},
 			{
@@ -124,7 +258,7 @@
 				"content_html": "<p>Schools closed for inclement weather and there’s nary a flake on the ground. 😑</p>\n",
 				"content_text": "Schools closed for inclement weather and there’s nary a flake on the ground. 😑\n",
 				"date_published": "2024-02-13T10:55:22-05:00",
-				"url": "https://javier.plumey.com/2024/02/13/schools-closed-for.html",
+				"url": "https://plumey.com/2024/02/13/schools-closed-for.html",
 				"tags": ["life"]
 			},
 			{
@@ -133,16 +267,16 @@
 				"content_html": "<p>I’ve never had to write a eulogy before. How is it even possible to write anything of significance about a man’s almost 80 years on Earth?</p>\n",
 				"content_text": "I’ve never had to write a eulogy before. How is it even possible to write anything of significance about a man’s almost 80 years on Earth?\n",
 				"date_published": "2024-02-11T22:19:03-05:00",
-				"url": "https://javier.plumey.com/2024/02/11/ive-never-had.html",
+				"url": "https://plumey.com/2024/02/11/ive-never-had.html",
 				"tags": ["life"]
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/02/09/i-dont-bingo.html",
 				
-				"content_html": "<p>I don’t bingo often, but this bingo at my son’s school was fun. It was more about the community and passing time together than the actual game.</p>\n<p><a href=\"https://javier.plumey.com/uploads/2024/8d71c3c1-133c-428c-9fb5-78fd3a0eda91.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"32b68a384a475e51e91da2d2704b11b1\"\n   \n>\n  <img src =\"https://javier.plumey.com/uploads/2024/8d71c3c1-133c-428c-9fb5-78fd3a0eda91.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A projected Bingo game display with numbers ranging from 1 to 75, a sample Bingo card on the left, and a &amp;ldquo;DRAW BALL&amp;rdquo; button at the bottom left corner.\" \n        \n  />\n</a>\n\n</p>\n<p><a href=\"https://javier.plumey.com/uploads/2024/fb73d8e3-5b39-4e60-a537-18b2c2d30cad.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"32b68a384a475e51e91da2d2704b11b1\"\n   \n>\n  <img src =\"https://javier.plumey.com/uploads/2024/fb73d8e3-5b39-4e60-a537-18b2c2d30cad.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A bingo night event in a large hall with multiple tables, people seated playing the game, and a large digital BINGO board displayed on screens in the background.\" \n        \n  />\n</a>\n\n</p>\n",
-				"content_text": "I don’t bingo often, but this bingo at my son’s school was fun. It was more about the community and passing time together than the actual game. \n\n![A projected Bingo game display with numbers ranging from 1 to 75, a sample Bingo card on the left, and a \"DRAW BALL\" button at the bottom left corner.](https://javier.plumey.com/uploads/2024/8d71c3c1-133c-428c-9fb5-78fd3a0eda91.jpg)\n\n![A bingo night event in a large hall with multiple tables, people seated playing the game, and a large digital BINGO board displayed on screens in the background.](https://javier.plumey.com/uploads/2024/fb73d8e3-5b39-4e60-a537-18b2c2d30cad.jpg)\n",
+				"content_html": "<p>I don’t bingo often, but this bingo at my son’s school was fun. It was more about the community and passing time together than the actual game.</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/8d71c3c1-133c-428c-9fb5-78fd3a0eda91.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"32b68a384a475e51e91da2d2704b11b1\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/8d71c3c1-133c-428c-9fb5-78fd3a0eda91.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A projected Bingo game display with numbers ranging from 1 to 75, a sample Bingo card on the left, and a &amp;ldquo;DRAW BALL&amp;rdquo; button at the bottom left corner.\" \n        \n  />\n</a>\n\n</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/fb73d8e3-5b39-4e60-a537-18b2c2d30cad.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"32b68a384a475e51e91da2d2704b11b1\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/fb73d8e3-5b39-4e60-a537-18b2c2d30cad.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A bingo night event in a large hall with multiple tables, people seated playing the game, and a large digital BINGO board displayed on screens in the background.\" \n        \n  />\n</a>\n\n</p>\n",
+				"content_text": "I don’t bingo often, but this bingo at my son’s school was fun. It was more about the community and passing time together than the actual game. \n\n![A projected Bingo game display with numbers ranging from 1 to 75, a sample Bingo card on the left, and a \"DRAW BALL\" button at the bottom left corner.](https://cdn.uploads.micro.blog/27737/2024/8d71c3c1-133c-428c-9fb5-78fd3a0eda91.jpg)\n\n![A bingo night event in a large hall with multiple tables, people seated playing the game, and a large digital BINGO board displayed on screens in the background.](https://cdn.uploads.micro.blog/27737/2024/fb73d8e3-5b39-4e60-a537-18b2c2d30cad.jpg)\n",
 				"date_published": "2024-02-09T20:43:00-05:00",
-				"url": "https://javier.plumey.com/2024/02/09/i-dont-bingo.html",
+				"url": "https://plumey.com/2024/02/09/i-dont-bingo.html",
 				"tags": ["life"]
 			},
 			{
@@ -151,16 +285,16 @@
 				"content_html": "<p>Bought a new bed for my son since he’s been sleeping on a (very comfortable) futon for like ten years. This is a proper bed with a headboard and one of those hybrid foam mattresses.  I got the bed frame <a href=\"https://kdframes.com\">KD Frames</a>, which is made in the USA and is solid wood. Highly recommend.</p>\n",
 				"content_text": "Bought a new bed for my son since he’s been sleeping on a (very comfortable) futon for like ten years. This is a proper bed with a headboard and one of those hybrid foam mattresses.  I got the bed frame [KD Frames](https://kdframes.com), which is made in the USA and is solid wood. Highly recommend. \n",
 				"date_published": "2024-02-08T22:03:35-05:00",
-				"url": "https://javier.plumey.com/2024/02/08/bought-a-new.html",
+				"url": "https://plumey.com/2024/02/08/bought-a-new.html",
 				"tags": ["family","life"]
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/02/07/picked-up-delicious.html",
 				
-				"content_html": "<p>Picked up delicious pita, hummus, and garlic dip during lunch.</p>\n<p><a href=\"https://javier.plumey.com/uploads/2024/9f3f7ce7-5175-457c-98fa-ec63076b3e03.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"362294e877cd092e2339a0340f8ebd74\"\n   \n>\n  <img src =\"https://javier.plumey.com/uploads/2024/9f3f7ce7-5175-457c-98fa-ec63076b3e03.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"\" \n        \n  />\n</a>\n\n</p>\n<p><a href=\"https://javier.plumey.com/uploads/2024/8e5ea4f2-15e5-4476-9b4e-554351c9fa28.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"362294e877cd092e2339a0340f8ebd74\"\n   \n>\n  <img src =\"https://javier.plumey.com/uploads/2024/8e5ea4f2-15e5-4476-9b4e-554351c9fa28.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"\" \n        \n  />\n</a>\n\n</p>\n",
-				"content_text": "Picked up delicious pita, hummus, and garlic dip during lunch. \n\n![](https://javier.plumey.com/uploads/2024/9f3f7ce7-5175-457c-98fa-ec63076b3e03.jpg)\n\n![](https://javier.plumey.com/uploads/2024/8e5ea4f2-15e5-4476-9b4e-554351c9fa28.jpg)\n\n",
+				"content_html": "<p>Picked up delicious pita, hummus, and garlic dip during lunch.</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/9f3f7ce7-5175-457c-98fa-ec63076b3e03.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"362294e877cd092e2339a0340f8ebd74\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/9f3f7ce7-5175-457c-98fa-ec63076b3e03.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"\" \n        \n  />\n</a>\n\n</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/8e5ea4f2-15e5-4476-9b4e-554351c9fa28.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"362294e877cd092e2339a0340f8ebd74\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/8e5ea4f2-15e5-4476-9b4e-554351c9fa28.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"\" \n        \n  />\n</a>\n\n</p>\n",
+				"content_text": "Picked up delicious pita, hummus, and garlic dip during lunch. \n\n![](https://cdn.uploads.micro.blog/27737/2024/9f3f7ce7-5175-457c-98fa-ec63076b3e03.jpg)\n\n![](https://cdn.uploads.micro.blog/27737/2024/8e5ea4f2-15e5-4476-9b4e-554351c9fa28.jpg)\n\n",
 				"date_published": "2024-02-07T16:39:39-05:00",
-				"url": "https://javier.plumey.com/2024/02/07/picked-up-delicious.html",
+				"url": "https://plumey.com/2024/02/07/picked-up-delicious.html",
 				"tags": ["life"]
 			},
 			{
@@ -169,7 +303,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780735225268\">A Fever in the Heartland</a> by Timothy Egan 📚</p>\n<p>I’m amazed at the level of influence the KKK had in the mid 20s. And it’s not like all of a sudden the millions of klansmen and women had a change of heart when scandals started to rip it apart. The roots of racism run deep…</p>\n",
 				"content_text": "Currently reading: [A Fever in the Heartland](https://micro.blog/books/9780735225268) by Timothy Egan 📚\n\nI’m amazed at the level of influence the KKK had in the mid 20s. And it’s not like all of a sudden the millions of klansmen and women had a change of heart when scandals started to rip it apart. The roots of racism run deep…\n",
 				"date_published": "2024-02-03T12:49:38-05:00",
-				"url": "https://javier.plumey.com/2024/02/03/currently-reading-a.html",
+				"url": "https://plumey.com/2024/02/03/currently-reading-a.html",
 				"tags": ["books"]
 			},
 			{
@@ -178,7 +312,7 @@
 				"content_html": "<p>Drove through Baltimore to pick up my son from German class. This place has so much potential and also so many problems. Rooting for you BMore!</p>\n",
 				"content_text": "Drove through Baltimore to pick up my son from German class. This place has so much potential and also so many problems. Rooting for you BMore! \n",
 				"date_published": "2024-02-03T12:47:26-05:00",
-				"url": "https://javier.plumey.com/2024/02/03/drove-through-baltimore.html",
+				"url": "https://plumey.com/2024/02/03/drove-through-baltimore.html",
 				"tags": ["life"]
 			},
 			{
@@ -187,7 +321,7 @@
 				"content_html": "<p>Interviewed Vanessa DeSilvio, actor on The Chosen who portrays the character Photina, also known as the Samaritan woman that Jesus encounters at the well. It was a delightful conversation!</p>\n<p><a href=\"https://www.numinous.fm/redeemer/king-and-i/\">www.numinous.fm/redeemer/&hellip;</a></p>\n<p>🎙️</p>\n",
 				"content_text": "Interviewed Vanessa DeSilvio, actor on The Chosen who portrays the character Photina, also known as the Samaritan woman that Jesus encounters at the well. It was a delightful conversation! \n\n[www.numinous.fm/redeemer/...](https://www.numinous.fm/redeemer/king-and-i/)\n\n 🎙️\n",
 				"date_published": "2024-02-02T07:20:16-05:00",
-				"url": "https://javier.plumey.com/2024/02/02/interviewed-vanessa-desilvio.html"
+				"url": "https://plumey.com/2024/02/02/interviewed-vanessa-desilvio.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/01/26/first-doctors-appointment.html",
@@ -195,7 +329,7 @@
 				"content_html": "<p>First doctor’s appointment in years. Nothing serious but just haven’t been. Blood work done. Now it’s time to eat!</p>\n",
 				"content_text": "First doctor’s appointment in years. Nothing serious but just haven’t been. Blood work done. Now it’s time to eat!\n",
 				"date_published": "2024-01-26T12:06:06-05:00",
-				"url": "https://javier.plumey.com/2024/01/26/first-doctors-appointment.html",
+				"url": "https://plumey.com/2024/01/26/first-doctors-appointment.html",
 				"tags": ["health","life"]
 			},
 			{
@@ -204,7 +338,7 @@
 				"content_html": "<p>I just interviewed a wonderful guest for an upcoming episode of Redeemer. If you’re a fan of The Chosen, you’ll be interested in this one. I’ll post a link as soon as it goes live!🎙️</p>\n",
 				"content_text": "I just interviewed a wonderful guest for an upcoming episode of Redeemer. If you’re a fan of The Chosen, you’ll be interested in this one. I’ll post a link as soon as it goes live!🎙️\n",
 				"date_published": "2024-01-23T20:38:07-05:00",
-				"url": "https://javier.plumey.com/2024/01/23/i-just-interviewed.html"
+				"url": "https://plumey.com/2024/01/23/i-just-interviewed.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/01/22/i-dont-need.html",
@@ -212,16 +346,16 @@
 				"content_html": "<p>I don’t need to be told that it’s counter productive to eat a slice of cake and then do a workout. My body tells me that’s the case. Ugggh…</p>\n",
 				"content_text": "I don’t need to be told that it’s counter productive to eat a slice of cake and then do a workout. My body tells me that’s the case. Ugggh…\n",
 				"date_published": "2024-01-22T20:30:57-05:00",
-				"url": "https://javier.plumey.com/2024/01/22/i-dont-need.html",
+				"url": "https://plumey.com/2024/01/22/i-dont-need.html",
 				"tags": ["health","life"]
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/01/20/got-a-chance.html",
 				
 				"content_html": "<p>Got a chance to go see my boy play in some D3 volleyball today.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Got a chance to go see my boy play in some D3 volleyball today. \n\n<img src=\"uploads/2024/86d4958fa7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Got a chance to go see my boy play in some D3 volleyball today. \n\n<img src=\"https://cdn.uploads.micro.blog/27737/2024/86d4958fa7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-01-20T20:34:11-05:00",
-				"url": "https://javier.plumey.com/2024/01/20/got-a-chance.html",
+				"url": "https://plumey.com/2024/01/20/got-a-chance.html",
 				"tags": ["life"]
 			},
 			{
@@ -230,7 +364,7 @@
 				"content_html": "<p>OMG this is BRILLIANT!</p>\n<p><a href=\"https://electrified-toyota.com/\">electrified-toyota.com</a></p>\n<p>#tech</p>\n",
 				"content_text": "OMG this is BRILLIANT! \n\n[electrified-toyota.com](https://electrified-toyota.com/)\n\n#tech\n",
 				"date_published": "2024-01-19T08:03:06-05:00",
-				"url": "https://javier.plumey.com/2024/01/19/omg-this-is.html",
+				"url": "https://plumey.com/2024/01/19/omg-this-is.html",
 				"tags": ["tech"]
 			},
 			{
@@ -239,7 +373,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780861542895\">The Biggest Ideas in the Universe 1</a> by Sean Carroll 📚</p>\n<p>I’m only a chapter in, but I love the assumption that even non scientists are able to understand the fundamental equations behind the science, if explained in a way where we are not expected to solve the equations, just why they work the way they do.</p>\n",
 				"content_text": "Currently reading: [The Biggest Ideas in the Universe 1](https://micro.blog/books/9780861542895) by Sean Carroll 📚\n\nI’m only a chapter in, but I love the assumption that even non scientists are able to understand the fundamental equations behind the science, if explained in a way where we are not expected to solve the equations, just why they work the way they do. \n",
 				"date_published": "2024-01-17T21:55:08-05:00",
-				"url": "https://javier.plumey.com/2024/01/17/currently-reading-the.html",
+				"url": "https://plumey.com/2024/01/17/currently-reading-the.html",
 				"tags": ["books"]
 			},
 			{
@@ -248,7 +382,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780861542895\">The Biggest Ideas in the Universe 1</a> by Sean Carroll 📚</p>\n<p>I don’t recall now where I got the recommendation for this book, but since I just finished a fiction book it’s now time to switch to nonfiction. I don’t have the greatest track record finishing nonfiction, but it’s one of my goals this year to do so.</p>\n<p>Wish me good reading!</p>\n",
 				"content_text": "Currently reading: [The Biggest Ideas in the Universe 1](https://micro.blog/books/9780861542895) by Sean Carroll 📚\n\nI don’t recall now where I got the recommendation for this book, but since I just finished a fiction book it’s now time to switch to nonfiction. I don’t have the greatest track record finishing nonfiction, but it’s one of my goals this year to do so. \n\nWish me good reading! \n",
 				"date_published": "2024-01-14T23:26:12-05:00",
-				"url": "https://javier.plumey.com/2024/01/14/currently-reading-the.html",
+				"url": "https://plumey.com/2024/01/14/currently-reading-the.html",
 				"tags": ["books"]
 			},
 			{
@@ -257,32 +391,32 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780978927080\">Great Expectations (Illustrated)</a> by Charles Dickens 📚</p>\n<p>Rating: ★★★★1/2</p>\n<p>I loved it! This is Dickens, so it was a bit long, but I’ll give it a pass because of the strong character development and the sublime use of the English language.</p>\n",
 				"content_text": "Finished reading: [Great Expectations (Illustrated)](https://micro.blog/books/9780978927080) by Charles Dickens 📚\n\nRating: ★★★★1/2 \n\nI loved it! This is Dickens, so it was a bit long, but I’ll give it a pass because of the strong character development and the sublime use of the English language. \n",
 				"date_published": "2024-01-14T22:52:52-05:00",
-				"url": "https://javier.plumey.com/2024/01/14/finished-reading-great.html",
+				"url": "https://plumey.com/2024/01/14/finished-reading-great.html",
 				"tags": ["books"]
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/01/08/this-pathetic-but.html",
 				
 				"content_html": "<p>This pathetic but also cute pup does not love this sweater. 🐕</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This pathetic but also cute pup does not love this sweater. 🐕\n\n<img src=\"uploads/2024/9bc7154fea.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "This pathetic but also cute pup does not love this sweater. 🐕\n\n<img src=\"https://cdn.uploads.micro.blog/27737/2024/9bc7154fea.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-01-08T20:38:35-05:00",
-				"url": "https://javier.plumey.com/2024/01/08/this-pathetic-but.html"
+				"url": "https://plumey.com/2024/01/08/this-pathetic-but.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/01/06/date-night-success.html",
 				
 				"content_html": "<p>Date night success! The wife and I enjoyed a fantastic dinner and a little walk.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Date night success! The wife and I enjoyed a fantastic dinner and a little walk. \n\n\n<img src=\"uploads/2024/a4091f0b4a.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/68ace87af8.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/de07359004.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Date night success! The wife and I enjoyed a fantastic dinner and a little walk. \n\n\n<img src=\"https://cdn.uploads.micro.blog/27737/2024/a4091f0b4a.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/27737/2024/68ace87af8.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/27737/2024/de07359004.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-01-06T17:29:18-05:00",
-				"url": "https://javier.plumey.com/2024/01/06/date-night-success.html"
+				"url": "https://plumey.com/2024/01/06/date-night-success.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/01/05/this-little-dog.html",
 				
 				"content_html": "<p>This little dog is getting laser treatments for her torn CCL. She&rsquo;s only 11 pounds but managed to hurt herself running around after being in the crate for a few hours.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This little dog is getting laser treatments for her torn CCL. She's only 11 pounds but managed to hurt herself running around after being in the crate for a few hours.\r\n\r\n<img src=\"uploads/2024/9342b8b8-ddd6-4210-bbef-da563d34f2cc.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "This little dog is getting laser treatments for her torn CCL. She's only 11 pounds but managed to hurt herself running around after being in the crate for a few hours.\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/27737/2024/9342b8b8-ddd6-4210-bbef-da563d34f2cc.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-01-05T16:21:54-05:00",
-				"url": "https://javier.plumey.com/2024/01/05/this-little-dog.html"
+				"url": "https://plumey.com/2024/01/05/this-little-dog.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/01/05/booked-a-date.html",
@@ -290,15 +424,15 @@
 				"content_html": "<p>Booked a date night with my wife tonight to enjoy a new restaurant and catch up after a hectic week! Very much looking forward to it.</p>\n<p>If you&rsquo;re married or in a relationship, what do you do to keep your connection with your better half strong?</p>\n",
 				"content_text": "Booked a date night with my wife tonight to enjoy a new restaurant and catch up after a hectic week! Very much looking forward to it.\r\n\r\nIf you're married or in a relationship, what do you do to keep your connection with your better half strong?\n",
 				"date_published": "2024-01-05T11:32:14-05:00",
-				"url": "https://javier.plumey.com/2024/01/05/booked-a-date.html"
+				"url": "https://plumey.com/2024/01/05/booked-a-date.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/01/04/im-working-on.html",
 				
 				"content_html": "<p>I’m working on a side project doing audio/video system installations at churches. I spent four hours trying to run speaker and shielded cables in the basement of a church over 120 years old.  It was definitely a challenge but I love that super satisfying sight of the cables ready to pull up through the subfloor.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I’m working on a side project doing audio/video system installations at churches. I spent four hours trying to run speaker and shielded cables in the basement of a church over 120 years old.  It was definitely a challenge but I love that super satisfying sight of the cables ready to pull up through the subfloor. \n\n\n\n<img src=\"uploads/2024/4a39c6e696.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/94aced5776.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "I’m working on a side project doing audio/video system installations at churches. I spent four hours trying to run speaker and shielded cables in the basement of a church over 120 years old.  It was definitely a challenge but I love that super satisfying sight of the cables ready to pull up through the subfloor. \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/27737/2024/4a39c6e696.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/27737/2024/94aced5776.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-01-04T18:31:27-05:00",
-				"url": "https://javier.plumey.com/2024/01/04/im-working-on.html"
+				"url": "https://plumey.com/2024/01/04/im-working-on.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/01/02/watched-season-of.html",
@@ -306,7 +440,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Watched: Season 2 of Star Trek: Lower Decks ★★★★1/2 </p>\n<p>This show continues to entertain and surprise me. I really love all of the characters and the writers know how to strike the fine balance between serving the fans and pushing us to enjoy something new.</p>\n",
 				"date_published": "2024-01-02T14:06:04-05:00",
-				"url": "https://javier.plumey.com/2024/01/02/watched-season-of.html",
+				"url": "https://plumey.com/2024/01/02/watched-season-of.html",
 				"tags": ["media"]
 			},
 			{
@@ -315,7 +449,7 @@
 				"content_html": "<p>Watched: Transformers: Rise of the Beasts ★★★1/2.</p>\n<p>This wasn’t the worst movie I’ve watched lately. It was a little ridiculous overall, but enjoyable and cool action scenes.</p>\n",
 				"content_text": "Watched: Transformers: Rise of the Beasts ★★★1/2. \n\nThis wasn’t the worst movie I’ve watched lately. It was a little ridiculous overall, but enjoyable and cool action scenes. \n",
 				"date_published": "2023-12-31T15:15:36-05:00",
-				"url": "https://javier.plumey.com/2023/12/31/watched-transformers-rise.html",
+				"url": "https://plumey.com/2023/12/31/watched-transformers-rise.html",
 				"tags": ["movies"]
 			},
 			{
@@ -324,7 +458,7 @@
 				"content_html": "<p>I highly recommend this “course” for anyone who is married, or about to be married. I’ve been married to my lovely wife for 21 years and still find this to be enlightening! We’ve already seen improvements in our relationship.</p>\n<p><a href=\"https://themarriagecourse.org/\">themarriagecourse.org</a></p>\n",
 				"content_text": "I highly recommend this “course” for anyone who is married, or about to be married. I’ve been married to my lovely wife for 21 years and still find this to be enlightening! We’ve already seen improvements in our relationship. \n\n[themarriagecourse.org](https://themarriagecourse.org/)\n",
 				"date_published": "2023-12-30T22:58:06-05:00",
-				"url": "https://javier.plumey.com/2023/12/30/i-highly-recommend.html",
+				"url": "https://plumey.com/2023/12/30/i-highly-recommend.html",
 				"tags": ["faith","family"]
 			},
 			{
@@ -333,7 +467,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Watched: Season 2 of Star Trek: Strange New Worlds: ★★★★★</p>\n<p>I loved every minute of this show! I wasn’t expecting to love the musical, but I thoroughly enjoyed it and it had some great laughs as well.</p>\n",
 				"date_published": "2023-12-30T16:20:44-05:00",
-				"url": "https://javier.plumey.com/2023/12/30/watched-season-of.html",
+				"url": "https://plumey.com/2023/12/30/watched-season-of.html",
 				"tags": ["media"]
 			},
 			{
@@ -342,7 +476,7 @@
 				"content_html": "<p>I had two Christmas miracles. The first was the the Dolphins beat the Cowboys. The second was that I managed to finish leading the music for Christmas Eve Mass despite having a wicked cough. Thank you Throat Coat and Ricola.</p>\n",
 				"content_text": "I had two Christmas miracles. The first was the the Dolphins beat the Cowboys. The second was that I managed to finish leading the music for Christmas Eve Mass despite having a wicked cough. Thank you Throat Coat and Ricola. \n",
 				"date_published": "2023-12-25T23:41:52-05:00",
-				"url": "https://javier.plumey.com/2023/12/25/i-had-two.html"
+				"url": "https://plumey.com/2023/12/25/i-had-two.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2023/12/25/lets-go-niners.html",
@@ -350,7 +484,7 @@
 				"content_html": "<p>Let’s go Niners, us Dolphins fans needs you to get a win over the Ravens.</p>\n",
 				"content_text": "Let’s go Niners, us Dolphins fans needs you to get a win over the Ravens. \n",
 				"date_published": "2023-12-25T20:52:19-05:00",
-				"url": "https://javier.plumey.com/2023/12/25/lets-go-niners.html"
+				"url": "https://plumey.com/2023/12/25/lets-go-niners.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2023/12/25/every-year-since.html",
@@ -358,7 +492,7 @@
 				"content_html": "<p>Every year since we’ve moved to Maryland, we have been going to a nearby Hibachi place on Christmas Eve. We don’t know anyone in the area, so after we made some friends we invited them to go with us, and this year we celebrated our 9th year going to the same restaurant with our friends.</p>\n",
 				"content_text": "Every year since we’ve moved to Maryland, we have been going to a nearby Hibachi place on Christmas Eve. We don’t know anyone in the area, so after we made some friends we invited them to go with us, and this year we celebrated our 9th year going to the same restaurant with our friends. \n",
 				"date_published": "2023-12-25T19:49:12-05:00",
-				"url": "https://javier.plumey.com/2023/12/25/every-year-since.html"
+				"url": "https://plumey.com/2023/12/25/every-year-since.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2023/12/24/koto-sake-japanese.html",
@@ -366,16 +500,16 @@
 				"content_html": "<p>Koto Sake Japanese Steak House.</p>\n<p>This our Christmas Eve tradition. We go here every year with our friends and the food is always delicious!</p>\n",
 				"content_text": "Koto Sake Japanese Steak House. \n\nThis our Christmas Eve tradition. We go here every year with our friends and the food is always delicious!\n",
 				"date_published": "2023-12-24T19:49:10-05:00",
-				"url": "https://javier.plumey.com/2023/12/24/koto-sake-japanese.html",
+				"url": "https://plumey.com/2023/12/24/koto-sake-japanese.html",
 				"tags": ["checkin"]
 			},
 			{
 				"id": "http://plumey.micro.blog/2023/12/19/amazing-friends-amazing.html",
 				
 				"content_html": "<p>Amazing friends, amazing food, and an amazing place to laugh and drink makes for a warm and cozy night. Feeling very grateful tonight.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Amazing friends, amazing food, and an amazing place to laugh and drink makes for a warm and cozy night. Feeling very grateful tonight. \n\n<img src=\"uploads/2023/65f5d55b83.jpg\" width=\"450\" height=\"600\" alt=\"Christmas tree in a cozy restaurant. \">\n",
+				"content_text": "Amazing friends, amazing food, and an amazing place to laugh and drink makes for a warm and cozy night. Feeling very grateful tonight. \n\n<img src=\"https://cdn.uploads.micro.blog/27737/2023/65f5d55b83.jpg\" width=\"450\" height=\"600\" alt=\"Christmas tree in a cozy restaurant. \">\n",
 				"date_published": "2023-12-19T22:27:37-05:00",
-				"url": "https://javier.plumey.com/2023/12/19/amazing-friends-amazing.html"
+				"url": "https://plumey.com/2023/12/19/amazing-friends-amazing.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2023/12/04/currently-reading-great.html",
@@ -383,7 +517,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780978927080\">Great Expectations (Illustrated)</a> by Charles Dickens 📚</p>\n<p>It’s been years since I read any fiction older than 1900, so I figured it was time to finally read this. I do love Dickens, so I know it’ll be enjoyable.</p>\n",
 				"content_text": "Currently reading: [Great Expectations (Illustrated)](https://micro.blog/books/9780978927080) by Charles Dickens 📚\n\nIt’s been years since I read any fiction older than 1900, so I figured it was time to finally read this. I do love Dickens, so I know it’ll be enjoyable. \n",
 				"date_published": "2023-12-04T21:45:21-05:00",
-				"url": "https://javier.plumey.com/2023/12/04/currently-reading-great.html"
+				"url": "https://plumey.com/2023/12/04/currently-reading-great.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2023/12/04/snow-crash-by.html",
@@ -391,16 +525,16 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Snow Crash by Neil Stephenson: ★★★1/2 </p>\n<p>I really wanted to love Neil Stephenson’s <em>Snow Crash</em>. It has all the makings of a great tale: archaeolgy, vintage but also not-vintage tech, cyberspace, katanas, and the mafia. </p>\n<p><strong>Minor Spoilers below 👇</strong></p>\n<p>What I liked:</p>\n<p>- Stephenson’s prose is easy to follow and carries the story well<br />- theoretical and (highly) outlandish relationship established between ancient religions and information warfare<br />- visionary scope of what a metaverse could be (he coined the phrase, I believe)<br />- satirical perspective of unmitigated capitalism</p>\n<p>What I disliked:</p>\n<p>- Absurdity of the plot, it was just too much and his long expositions with the non-sentient Librarian and his chief allies were identical. If you have to spend literally ten pages of the main character talking through the plot, I think you’ve gone too far.<br />- Paper-thin characters. They had promise but other than one character calling her mom and another finally getting to be with a girl, no character had a single step of movement.<br />- Sexual exploitation of a minor (yes)<br /><br />Overall, I’m glad I read it, as it has been on my list for a while, but in the end, I didn’t find it very memorable. </p>\n",
 				"date_published": "2023-12-04T09:03:40-05:00",
-				"url": "https://javier.plumey.com/2023/12/04/snow-crash-by.html",
+				"url": "https://plumey.com/2023/12/04/snow-crash-by.html",
 				"tags": ["media","books"]
 			},
 			{
 				"id": "http://plumey.micro.blog/2023/12/03/i-often-forget.html",
 				
 				"content_html": "<p>I often forget that Advent is a penitential season.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I often forget that Advent is a penitential season. \n\n<img src=\"uploads/2023/image.png\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "I often forget that Advent is a penitential season. \n\n<img src=\"https://cdn.uploads.micro.blog/27737/2023/image.png\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2023-12-03T12:10:52-05:00",
-				"url": "https://javier.plumey.com/2023/12/03/i-often-forget.html"
+				"url": "https://plumey.com/2023/12/03/i-often-forget.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2023/11/27/im-currently-doing.html",
@@ -408,7 +542,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>I’m currently doing quite a bit of research on white-label social networks and white-label learning management systems. This post isn’t about the findings, which are not ready to share, but to remark on the fact that there are so many options and I find it hard to believe there is such high demand for these kinds of SaaS offerings. If you’re using a SaaS offering or self-hosted solution for courses or a private social network, please let me know! </p>\n",
 				"date_published": "2023-11-27T16:27:04-05:00",
-				"url": "https://javier.plumey.com/2023/11/27/im-currently-doing.html",
+				"url": "https://plumey.com/2023/11/27/im-currently-doing.html",
 				"tags": ["tech"]
 			},
 			{
@@ -417,7 +551,7 @@
 				"content_html": "<p>The problem with baking really good cupcakes is that you want to sample too much the fruit of your handiwork.</p>\n",
 				"content_text": "The problem with baking really good cupcakes is that you want to sample too much the fruit of your handiwork. \n",
 				"date_published": "2023-11-26T19:19:00-05:00",
-				"url": "https://javier.plumey.com/2023/11/26/the-problem-with.html"
+				"url": "https://plumey.com/2023/11/26/the-problem-with.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2023/11/25/my-hips-dont.html",
@@ -425,16 +559,16 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Apple Fitness to the Rescue</p>\n<p>I don’t know what I did (except to continue along the inexorable march towards death), but today I’ve had some severe pain in my hips and lower back. It didn’t help that I attempted to walk up a flight of stairs in a historic district in my home while also trying to carry a 15lb bag of dog food.</p>\n<p>So to try and alleviate some of the discomfort, I turned to some trusty Apple Fitness+ workouts that I’ve done over the past few months. I didn’t realize until today that I could search their site and so I found these when I was looking for a few good stretches:</p>\n<p><a href=\"https://fitness.apple.com/us/studio-collection/strengthen-and-stretch-your-back-and-hips/1601559022\">https://fitness.apple.com/us/studio-collection/strengthen-and-stretch-your-back-and-hips/1601559022</a></p>\n<p>I found some nice stretches in one of the Yoga workouts with Jessica and they really helped. That and a warm compress and some ibuprofen.</p>\n",
 				"date_published": "2023-11-25T19:38:51-05:00",
-				"url": "https://javier.plumey.com/2023/11/25/my-hips-dont.html",
+				"url": "https://plumey.com/2023/11/25/my-hips-dont.html",
 				"tags": ["health"]
 			},
 			{
 				"id": "http://plumey.micro.blog/2023/11/23/raising-canes-hype.html",
 				"title": "Raising Canes Hype",
 				"content_html": "<p>This Raising Canes place is all the rage since it opened near my neck of the woods. We decided to try it out and I’ll just say one word I learned from my kids:</p>\n<p>Mid</p>\n<p>The chicken was tender but bland. The fries were not very crispy and they were under seasoned. They ran out of slaw and then it took 20 minutes to get the good.</p>\n<p>Plus it was insanely loud.</p>\n<p>I’ll stick to Chick-fil-a.</p>\n<p>#food #restaurants</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This Raising Canes place is all the rage since it opened near my neck of the woods. We decided to try it out and I’ll just say one word I learned from my kids:\n\nMid\n\nThe chicken was tender but bland. The fries were not very crispy and they were under seasoned. They ran out of slaw and then it took 20 minutes to get the good. \n\nPlus it was insanely loud. \n\nI’ll stick to Chick-fil-a. \n\n#food #restaurants\n\n<img src=\"uploads/2023/da3b9aad4d.jpg\" width=\"600\" height=\"450\" alt=\"The logo for the Raising Canes franchise. \">\n",
+				"content_text": "This Raising Canes place is all the rage since it opened near my neck of the woods. We decided to try it out and I’ll just say one word I learned from my kids:\n\nMid\n\nThe chicken was tender but bland. The fries were not very crispy and they were under seasoned. They ran out of slaw and then it took 20 minutes to get the good. \n\nPlus it was insanely loud. \n\nI’ll stick to Chick-fil-a. \n\n#food #restaurants\n\n<img src=\"https://cdn.uploads.micro.blog/27737/2023/da3b9aad4d.jpg\" width=\"600\" height=\"450\" alt=\"The logo for the Raising Canes franchise. \">\n",
 				"date_published": "2023-11-23T22:54:18-05:00",
-				"url": "https://javier.plumey.com/2023/11/23/raising-canes-hype.html"
+				"url": "https://plumey.com/2023/11/23/raising-canes-hype.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2023/07/22/oppenheimer.html",
@@ -442,23 +576,23 @@
 				"content_html": "<p>🍿 Just had a chance to watch the new Oppenheimer #movie from Christopher Nolan. My oldest son (20) wanted to go see it, and even though I had seen the trailers, it wasn&rsquo;t previously on my must-see list. At a little over three hours long, I wasn&rsquo;t really sure the material would grip me long enough to sit through it.</p>\n<p>Wow, was I wrong!</p>\n<p>I don&rsquo;t have the eloquence to give it a real &ldquo;review&rdquo;, so I&rsquo;ll just drop a few nuggets of impressions here:</p>\n<ul>\n<li>The audio and visuals engrossed me. I feel like they really nailed the aesthetic of the time. The use of black and white was interesting, and the soundtrack was very immersive.</li>\n<li>Acting was quite good. I especially enjoyed the performances of <a href=\"https://www.imdb.com/name/nm0614165/?ref_=tt_cl_t_1\">Cillian Murphy</a>,  <a href=\"https://www.imdb.com/name/nm1289434/?ref_=tt_cl_t_2\">Emily Blunt</a>. <a href=\"https://www.imdb.com/name/nm0000354/?ref_=tt_cl_t_3\">Matt Damon</a>, and <a href=\"https://www.imdb.com/name/nm0000375/?ref_=tt_cl_t_4\">Robert Downey Jr</a>.  I was really surprised by the number of recognizable stars including<a href=\"https://www.imdb.com/name/nm0342241/?ref_=tt_cl_i_6\"> Sean Grimes</a>, <a href=\"https://www.imdb.com/name/nm0000110/?ref_=tt_cl_i_13\">Kenneth Branagh</a>, and <a href=\"https://www.imdb.com/name/nm0001282/?ref_=tt_cl_t_9\">Tony Goldwyn</a>.</li>\n<li>I only had a minimum understanding of the history of Dr. Oppenheimer, and this movie has renewed my interest in not only in his story, but also that of the development of these incredible weapons. The movie did a good job at introducing us to the geopolitical issues surrounding the development of the weapon and also the growth of the nuclear arsenal.</li>\n<li>I&rsquo;m not a scientist, but I appreciated the movie&rsquo;s portrayal of the scientists involved with this effort as refreshing, highlighting their struggle of the theory vs the pragmatic implications of their work.</li>\n<li>The movie did a good job balancing the perspectives of the immense power of these weapons, and also the need for such weapons in the modern world. Those that are responsible for the oversight of the weapons in the arsenals of today&rsquo;s nuclear powers could always use a reminder of the gravity of the responsibility that they bear.</li>\n</ul>\n<p>Overall, it was an enjoyable experience, enhanced by the knowledge that my oldest son still wants to spend time with his old man. I&rsquo;m going to be diving into a little more history, so if you have a recommendation on further reading, please let me know!</p>\n",
 				"content_text": "🍿 Just had a chance to watch the new Oppenheimer #movie from Christopher Nolan. My oldest son (20) wanted to go see it, and even though I had seen the trailers, it wasn't previously on my must-see list. At a little over three hours long, I wasn't really sure the material would grip me long enough to sit through it.\n\nWow, was I wrong!\n\nI don't have the eloquence to give it a real \"review\", so I'll just drop a few nuggets of impressions here:\n\n- The audio and visuals engrossed me. I feel like they really nailed the aesthetic of the time. The use of black and white was interesting, and the soundtrack was very immersive. \n- Acting was quite good. I especially enjoyed the performances of [Cillian Murphy](https://www.imdb.com/name/nm0614165/?ref_=tt_cl_t_1),  [Emily Blunt](https://www.imdb.com/name/nm1289434/?ref_=tt_cl_t_2). [Matt Damon](https://www.imdb.com/name/nm0000354/?ref_=tt_cl_t_3), and [Robert Downey Jr](https://www.imdb.com/name/nm0000375/?ref_=tt_cl_t_4).  I was really surprised by the number of recognizable stars including[ Sean Grimes](https://www.imdb.com/name/nm0342241/?ref_=tt_cl_i_6), [Kenneth Branagh](https://www.imdb.com/name/nm0000110/?ref_=tt_cl_i_13), and [Tony Goldwyn](https://www.imdb.com/name/nm0001282/?ref_=tt_cl_t_9).\n- I only had a minimum understanding of the history of Dr. Oppenheimer, and this movie has renewed my interest in not only in his story, but also that of the development of these incredible weapons. The movie did a good job at introducing us to the geopolitical issues surrounding the development of the weapon and also the growth of the nuclear arsenal.\n- I'm not a scientist, but I appreciated the movie's portrayal of the scientists involved with this effort as refreshing, highlighting their struggle of the theory vs the pragmatic implications of their work.\n- The movie did a good job balancing the perspectives of the immense power of these weapons, and also the need for such weapons in the modern world. Those that are responsible for the oversight of the weapons in the arsenals of today's nuclear powers could always use a reminder of the gravity of the responsibility that they bear.\n\nOverall, it was an enjoyable experience, enhanced by the knowledge that my oldest son still wants to spend time with his old man. I'm going to be diving into a little more history, so if you have a recommendation on further reading, please let me know!\n",
 				"date_published": "2023-07-22T15:45:46-05:00",
-				"url": "https://javier.plumey.com/2023/07/22/oppenheimer.html"
+				"url": "https://plumey.com/2023/07/22/oppenheimer.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2022/12/21/check-check-microblog.html",
 				
 				"content_html": "<p>Check, check 1-2, Microblog to Mastodon Check 1, 2, 3&hellip;.oh, and a scraggly puppy this morning.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Check, check 1-2, Microblog to Mastodon Check 1, 2, 3....oh, and a scraggly puppy this morning. \r\n\n\n<img src=\"uploads/2022/03c47525a9.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Check, check 1-2, Microblog to Mastodon Check 1, 2, 3....oh, and a scraggly puppy this morning. \r\n\n\n<img src=\"https://cdn.uploads.micro.blog/27737/2022/03c47525a9.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-21T12:29:49-05:00",
-				"url": "https://javier.plumey.com/2022/12/21/check-check-microblog.html"
+				"url": "https://plumey.com/2022/12/21/check-check-microblog.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2021/10/08/discovered-this-fantastic.html",
 				
 				"content_html": "<p>Discovered this fantastic vodka from Iceland. It’s so crisp and refreshing.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Discovered this fantastic vodka from Iceland. It’s so crisp and refreshing. \n\n<img src=\"uploads/2021/278fb52997.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Discovered this fantastic vodka from Iceland. It’s so crisp and refreshing. \n\n<img src=\"https://cdn.uploads.micro.blog/27737/2021/278fb52997.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-08T19:08:01-05:00",
-				"url": "https://javier.plumey.com/2021/10/08/discovered-this-fantastic.html"
+				"url": "https://plumey.com/2021/10/08/discovered-this-fantastic.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2021/04/04/browsing-through-my.html",
@@ -466,7 +600,7 @@
 				"content_html": "<p>Browsing through my Insta, I think I figured out why we are having a surge. I saw SO MANY Christian and Catholic orgs and individuals posting pics of crowds with no masks or social distancing. I guess they forgot we are still in the midst of a pandemic.</p>\n",
 				"content_text": "Browsing through my Insta, I think I figured out why we are having a surge. I saw SO MANY Christian and Catholic orgs and individuals posting pics of crowds with no masks or social distancing. I guess they forgot we are still in the midst of a pandemic. \n",
 				"date_published": "2021-04-04T20:40:09-05:00",
-				"url": "https://javier.plumey.com/2021/04/04/browsing-through-my.html"
+				"url": "https://plumey.com/2021/04/04/browsing-through-my.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2021/04/03/just-finished-watching.html",
@@ -474,7 +608,7 @@
 				"content_html": "<p>Just finished watching the final season of Clone Wars. What an incredible series. The last four episodes were powerful and the artistry is amazing.</p>\n",
 				"content_text": "Just finished watching the final season of Clone Wars. What an incredible series. The last four episodes were powerful and the artistry is amazing. \n",
 				"date_published": "2021-04-03T11:22:35-05:00",
-				"url": "https://javier.plumey.com/2021/04/03/just-finished-watching.html"
+				"url": "https://plumey.com/2021/04/03/just-finished-watching.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2021/01/10/mewe-is-not.html",
@@ -482,15 +616,15 @@
 				"content_html": "<p>MeWe is not the answer to Facebook. I wish I could get my friends to see that another centralized platform is going to have the same problems as Facebook eventually.</p>\n",
 				"content_text": "MeWe is not the answer to Facebook. I wish I could get my friends to see that another centralized platform is going to have the same problems as Facebook eventually. \n",
 				"date_published": "2021-01-10T19:36:48-05:00",
-				"url": "https://javier.plumey.com/2021/01/10/mewe-is-not.html"
+				"url": "https://plumey.com/2021/01/10/mewe-is-not.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/12/29/took-a-trip.html",
 				
 				"content_html": "<p>Took a trip to Mount Vernon yesterday. I know it wasn’t as idyllic as it seems, but walking through the grounds,  closing my eyes, and using my imagination, I was almost able to hear the 18th century lifestyle.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Took a trip to Mount Vernon yesterday. I know it wasn’t as idyllic as it seems, but walking through the grounds,  closing my eyes, and using my imagination, I was almost able to hear the 18th century lifestyle. \n\n<img src=\"uploads/2020/539db05b05.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/1cdba2e098.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/d11eaa1b20.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Took a trip to Mount Vernon yesterday. I know it wasn’t as idyllic as it seems, but walking through the grounds,  closing my eyes, and using my imagination, I was almost able to hear the 18th century lifestyle. \n\n<img src=\"https://cdn.uploads.micro.blog/27737/2020/539db05b05.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/27737/2020/1cdba2e098.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/27737/2020/d11eaa1b20.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-12-29T21:51:30-05:00",
-				"url": "https://javier.plumey.com/2020/12/29/took-a-trip.html"
+				"url": "https://plumey.com/2020/12/29/took-a-trip.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/12/25/oh-my-soul.html",
@@ -498,7 +632,7 @@
 				"content_html": "<p>Oh my. Soul was incredible. A masterpiece.</p>\n",
 				"content_text": "Oh my. Soul was incredible. A masterpiece. \n",
 				"date_published": "2020-12-25T21:49:29-05:00",
-				"url": "https://javier.plumey.com/2020/12/25/oh-my-soul.html"
+				"url": "https://plumey.com/2020/12/25/oh-my-soul.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/12/19/what-is-the.html",
@@ -506,7 +640,7 @@
 				"content_html": "<p>What is the correct way to cut a sandwich and why is it diagonally?</p>\n",
 				"content_text": "What is the correct way to cut a sandwich and why is it diagonally?\n",
 				"date_published": "2020-12-19T17:23:22-05:00",
-				"url": "https://javier.plumey.com/2020/12/19/what-is-the.html"
+				"url": "https://plumey.com/2020/12/19/what-is-the.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/12/19/holy-hot-underpants.html",
@@ -514,15 +648,15 @@
 				"content_html": "<p>Holy hot underpants! Women’s underwear is HOT when it comes out of the dryer.</p>\n",
 				"content_text": "Holy hot underpants! Women’s underwear is HOT when it comes out of the dryer. \n",
 				"date_published": "2020-12-19T12:23:08-05:00",
-				"url": "https://javier.plumey.com/2020/12/19/holy-hot-underpants.html"
+				"url": "https://plumey.com/2020/12/19/holy-hot-underpants.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/12/05/just-vibin-tonight.html",
 				
 				"content_html": "<p>Just vibin’ tonight</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just vibin’ tonight\n\n<img src=\"uploads/2020/df43281dea.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Just vibin’ tonight\n\n<img src=\"https://cdn.uploads.micro.blog/27737/2020/df43281dea.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-12-05T21:56:00-05:00",
-				"url": "https://javier.plumey.com/2020/12/05/just-vibin-tonight.html"
+				"url": "https://plumey.com/2020/12/05/just-vibin-tonight.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/12/01/rip-ben-bova.html",
@@ -530,15 +664,15 @@
 				"content_html": "<p>RIP Ben Bova. Your words inspired me to read as a child and to write as an adult.</p>\n",
 				"content_text": "RIP Ben Bova. Your words inspired me to read as a child and to write as an adult. \n",
 				"date_published": "2020-12-01T07:33:33-05:00",
-				"url": "https://javier.plumey.com/2020/12/01/rip-ben-bova.html"
+				"url": "https://plumey.com/2020/12/01/rip-ben-bova.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/10/31/we-did-it.html",
 				
 				"content_html": "<p>We did it! Get out there and vote!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We did it! Get out there and vote!\n\n<img src=\"uploads/2020/08721ef9e6.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"content_text": "We did it! Get out there and vote!\n\n<img src=\"https://cdn.uploads.micro.blog/27737/2020/08721ef9e6.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
 				"date_published": "2020-10-31T10:50:10-05:00",
-				"url": "https://javier.plumey.com/2020/10/31/we-did-it.html"
+				"url": "https://plumey.com/2020/10/31/we-did-it.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/10/27/why-have-i.html",
@@ -546,7 +680,7 @@
 				"content_html": "<p>Why have I grown to hate the word “albeit”? There’s something about it that makes me want to smash it in the face.</p>\n",
 				"content_text": "Why have I grown to hate the word “albeit”? There’s something about it that makes me want to smash it in the face. \n",
 				"date_published": "2020-10-27T06:29:30-05:00",
-				"url": "https://javier.plumey.com/2020/10/27/why-have-i.html"
+				"url": "https://plumey.com/2020/10/27/why-have-i.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/10/14/learning-to-weed.html",
@@ -554,23 +688,23 @@
 				"content_html": "<p>Learning to weed out fake product reviews it’s not a skill my dad had to teach me.</p>\n",
 				"content_text": "Learning to weed out fake product reviews it’s not a skill my dad had to teach me.\n",
 				"date_published": "2020-10-14T06:20:52-05:00",
-				"url": "https://javier.plumey.com/2020/10/14/learning-to-weed.html"
+				"url": "https://plumey.com/2020/10/14/learning-to-weed.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/10/13/had-a-political.html",
 				
 				"content_html": "<p>Had a political discussion with a friend, needed a little pick me up.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Had a political discussion with a friend, needed a little pick me up.\n\n<img src=\"uploads/2020/be18fea220.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"content_text": "Had a political discussion with a friend, needed a little pick me up.\n\n<img src=\"https://cdn.uploads.micro.blog/27737/2020/be18fea220.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
 				"date_published": "2020-10-13T21:46:14-05:00",
-				"url": "https://javier.plumey.com/2020/10/13/had-a-political.html"
+				"url": "https://plumey.com/2020/10/13/had-a-political.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/09/25/took-the-boy.html",
 				
 				"content_html": "<p>Took the boy to do some plane spotting on a dreary evening near BWI. With COVID keeping air traffic down it was mostly SWA 737 7-8s.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Took the boy to do some plane spotting on a dreary evening near BWI. With COVID keeping air traffic down it was mostly SWA 737 7-8s. \n\n<img src=\"uploads/2020/373383d75d.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"content_text": "Took the boy to do some plane spotting on a dreary evening near BWI. With COVID keeping air traffic down it was mostly SWA 737 7-8s. \n\n<img src=\"https://cdn.uploads.micro.blog/27737/2020/373383d75d.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
 				"date_published": "2020-09-25T18:33:34-05:00",
-				"url": "https://javier.plumey.com/2020/09/25/took-the-boy.html"
+				"url": "https://plumey.com/2020/09/25/took-the-boy.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/09/16/dipping-my-toes.html",
@@ -578,7 +712,7 @@
 				"content_html": "<p>Dipping my toes into the YouTube creator lifestyle. <a href=\"https://www.youtube.com/watch?v=Q_8-LWfJGFg\">www.youtube.com/watch</a></p>\n",
 				"content_text": "Dipping my toes into the YouTube creator lifestyle. [www.youtube.com/watch](https://www.youtube.com/watch?v=Q_8-LWfJGFg)\n",
 				"date_published": "2020-09-16T21:53:25-05:00",
-				"url": "https://javier.plumey.com/2020/09/16/dipping-my-toes.html"
+				"url": "https://plumey.com/2020/09/16/dipping-my-toes.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/09/14/ive-largely-been.html",
@@ -586,15 +720,15 @@
 				"content_html": "<p>I&rsquo;ve largely been avoiding the decision on my presidential vote, mostly because I feel like the options are so limited and I&rsquo;m unhappy with the front runners. I guess it&rsquo;s time to dive a little deeper and figure out what to do&hellip;</p>\n",
 				"content_text": "I've largely been avoiding the decision on my presidential vote, mostly because I feel like the options are so limited and I'm unhappy with the front runners. I guess it's time to dive a little deeper and figure out what to do...\n",
 				"date_published": "2020-09-14T09:59:34-05:00",
-				"url": "https://javier.plumey.com/2020/09/14/ive-largely-been.html"
+				"url": "https://plumey.com/2020/09/14/ive-largely-been.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/09/12/enjoyed-an-evening.html",
 				
 				"content_html": "<p>Enjoyed an evening of outdoor dining and cupcakes to celebrate my son’s 11th baptism anniversary. Such a nice evening!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Enjoyed an evening of outdoor dining and cupcakes to celebrate my son’s 11th baptism anniversary. Such a nice evening!\n\n<img src=\"uploads/2020/de766ecc96.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"content_text": "Enjoyed an evening of outdoor dining and cupcakes to celebrate my son’s 11th baptism anniversary. Such a nice evening!\n\n<img src=\"https://cdn.uploads.micro.blog/27737/2020/de766ecc96.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
 				"date_published": "2020-09-12T21:37:27-05:00",
-				"url": "https://javier.plumey.com/2020/09/12/enjoyed-an-evening.html"
+				"url": "https://plumey.com/2020/09/12/enjoyed-an-evening.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/09/11/cuties-on-netflix.html",
@@ -602,7 +736,7 @@
 				"content_html": "<p>🎦 After reading a few articles about &ldquo;Cuties&rdquo;, especially <a href=\"https://www.usatoday.com/story/entertainment/movies/2020/09/08/cuties-controversy-is-new-netflix-film-inappropriate/3451445001/\">this one from USA Today</a> where the author states &ldquo;&hellip;confronts the horrid reality of how accessible imagery and videos can negatively impact children.&rdquo; I think I just need to watch it and see what it&rsquo;s all about. The imagery is vile, but perhaps that&rsquo;s the point? I&rsquo;ll report back later.</p>\n",
 				"content_text": "🎦 After reading a few articles about \"Cuties\", especially [this one from USA Today](https://www.usatoday.com/story/entertainment/movies/2020/09/08/cuties-controversy-is-new-netflix-film-inappropriate/3451445001/) where the author states \"...confronts the horrid reality of how accessible imagery and videos can negatively impact children.\" I think I just need to watch it and see what it's all about. The imagery is vile, but perhaps that's the point? I'll report back later. \n",
 				"date_published": "2020-09-11T08:19:36-05:00",
-				"url": "https://javier.plumey.com/2020/09/11/cuties-on-netflix.html",
+				"url": "https://plumey.com/2020/09/11/cuties-on-netflix.html",
 				"tags": ["media"]
 			},
 			{
@@ -611,7 +745,7 @@
 				"content_html": "<p>📚Haven’t read Dune in decades. Looks like I need to brush up on it and give it another read.</p>\n",
 				"content_text": "📚Haven’t read Dune in decades. Looks like I need to brush up on it and give it another read. \n",
 				"date_published": "2020-09-10T06:53:12-05:00",
-				"url": "https://javier.plumey.com/2020/09/10/havent-read-dune.html",
+				"url": "https://plumey.com/2020/09/10/havent-read-dune.html",
 				"tags": ["media"]
 			},
 			{
@@ -620,15 +754,15 @@
 				"content_html": "<p>I wonder if there is any way to post to GitHub and have Micro.blog pull from the repo.</p>\n",
 				"content_text": "I wonder if there is any way to post to GitHub and have Micro.blog pull from the repo. \n",
 				"date_published": "2020-09-08T19:56:16-05:00",
-				"url": "https://javier.plumey.com/2020/09/08/i-wonder-if.html"
+				"url": "https://plumey.com/2020/09/08/i-wonder-if.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/09/08/played-hooky-and.html",
 				
 				"content_html": "<p>Played hooky and spent the day on Friday with my son plane spotting and at the Air and Space museum</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Played hooky and spent the day on Friday with my son plane spotting and at the Air and Space museum\n\n<a href=\"https://plumey.micro.blog/uploads/2020/b13ab68faa.jpg\"><img src=\"uploads/2020/b13ab68faa.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://plumey.micro.blog/uploads/2020/1b1536fccd.jpg\"><img src=\"uploads/2020/1b1536fccd.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
+				"content_text": "Played hooky and spent the day on Friday with my son plane spotting and at the Air and Space museum\n\n<a href=\"https://cdn.uploads.micro.blog/27737/2020/b13ab68faa.jpg\"><img src=\"https://cdn.uploads.micro.blog/27737/2020/b13ab68faa.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://cdn.uploads.micro.blog/27737/2020/1b1536fccd.jpg\"><img src=\"https://cdn.uploads.micro.blog/27737/2020/1b1536fccd.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
 				"date_published": "2020-09-08T13:23:04-05:00",
-				"url": "https://javier.plumey.com/2020/09/08/played-hooky-and.html"
+				"url": "https://plumey.com/2020/09/08/played-hooky-and.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/09/03/the-problem-with.html",
@@ -636,15 +770,15 @@
 				"content_html": "<p>💭 The problem with taking showers (for me), is that I walk out bursting with ideas. Is it because there are no distractions, the white noise of the water? I regularly have to add several things to my to-do list after a shower. Is it just me?</p>\n",
 				"content_text": "💭 The problem with taking showers (for me), is that I walk out bursting with ideas. Is it because there are no distractions, the white noise of the water? I regularly have to add several things to my to-do list after a shower. Is it just me?\n",
 				"date_published": "2020-09-03T21:19:02-05:00",
-				"url": "https://javier.plumey.com/2020/09/03/the-problem-with.html"
+				"url": "https://plumey.com/2020/09/03/the-problem-with.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/08/31/theres-nothing-wrong.html",
 				
 				"content_html": "<p>There’s nothing wrong with a 43 year old man watching Supergirl is there? I don’t even consider it a guilty pleasure.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "There’s nothing wrong with a 43 year old man watching Supergirl is there? I don’t even consider it a guilty pleasure. \n\n<a href=\"https://plumey.micro.blog/uploads/2020/6cfe6160e7.jpg\"><img src=\"uploads/2020/6cfe6160e7.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "There’s nothing wrong with a 43 year old man watching Supergirl is there? I don’t even consider it a guilty pleasure. \n\n<a href=\"https://cdn.uploads.micro.blog/27737/2020/6cfe6160e7.jpg\"><img src=\"https://cdn.uploads.micro.blog/27737/2020/6cfe6160e7.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-08-31T20:10:07-05:00",
-				"url": "https://javier.plumey.com/2020/08/31/theres-nothing-wrong.html"
+				"url": "https://plumey.com/2020/08/31/theres-nothing-wrong.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/08/31/ive-not-read.html",
@@ -652,23 +786,23 @@
 				"content_html": "<p>📖 I&rsquo;ve not read alot of mystery books, but I just completed The Murder at the Vicarage by Agatha Christie. I love the period and it has so many moving parts. I don&rsquo;t read alot of myster books, but I loved this one, and I&rsquo;m a sucker for the writing of the period. Any reccs?</p>\n",
 				"content_text": "📖 I've not read alot of mystery books, but I just completed The Murder at the Vicarage by Agatha Christie. I love the period and it has so many moving parts. I don't read alot of myster books, but I loved this one, and I'm a sucker for the writing of the period. Any reccs?\n",
 				"date_published": "2020-08-31T16:21:31-05:00",
-				"url": "https://javier.plumey.com/2020/08/31/ive-not-read.html"
+				"url": "https://plumey.com/2020/08/31/ive-not-read.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/08/30/my-son-needed.html",
 				
 				"content_html": "<p>My son needed a new graphics card for the new Microsoft Flight simulator game so we picked up the GeForce GTX 1660 Super. He was terribly upset it only took about a minute to replace the older one. Made a huge difference but still can’t run the game at full quality. It’s crazy!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My son needed a new graphics card for the new Microsoft Flight simulator game so we picked up the GeForce GTX 1660 Super. He was terribly upset it only took about a minute to replace the older one. Made a huge difference but still can’t run the game at full quality. It’s crazy!\n\n<img src=\"uploads/2020/1b16a734f1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My son needed a new graphics card for the new Microsoft Flight simulator game so we picked up the GeForce GTX 1660 Super. He was terribly upset it only took about a minute to replace the older one. Made a huge difference but still can’t run the game at full quality. It’s crazy!\n\n<img src=\"https://cdn.uploads.micro.blog/27737/2020/1b16a734f1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-30T21:54:53-05:00",
-				"url": "https://javier.plumey.com/2020/08/30/my-son-needed.html"
+				"url": "https://plumey.com/2020/08/30/my-son-needed.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/08/29/played-a-bit.html",
 				
 				"content_html": "<p>Played a bit of scrabble with the little one. Our modified rules said you could use acronyms. Let me tell you, there is an acronym for EVERYTHING.  And yes, this is a very old Scrabble board. My family and I used to play together, and apparently my sister loved to doodle all over the box. I now know that she loved Duran Duran and that she rocks, evidently.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Played a bit of scrabble with the little one. Our modified rules said you could use acronyms. Let me tell you, there is an acronym for EVERYTHING.  And yes, this is a very old Scrabble board. My family and I used to play together, and apparently my sister loved to doodle all over the box. I now know that she loved Duran Duran and that she rocks, evidently.\n\n<a href=\"https://plumey.micro.blog/uploads/2020/a612582af7.jpg\"><img src=\"uploads/2020/a612582af7.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Played a bit of scrabble with the little one. Our modified rules said you could use acronyms. Let me tell you, there is an acronym for EVERYTHING.  And yes, this is a very old Scrabble board. My family and I used to play together, and apparently my sister loved to doodle all over the box. I now know that she loved Duran Duran and that she rocks, evidently.\n\n<a href=\"https://cdn.uploads.micro.blog/27737/2020/a612582af7.jpg\"><img src=\"https://cdn.uploads.micro.blog/27737/2020/a612582af7.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-08-29T09:32:00-05:00",
-				"url": "https://javier.plumey.com/2020/08/29/played-a-bit.html"
+				"url": "https://plumey.com/2020/08/29/played-a-bit.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2020/08/29/this-is-the.html",
@@ -676,7 +810,7 @@
 				"content_html": "<p>This is the quintissential &ldquo;hello world&rdquo; for the blogsphere. As much as I write on a regular basis for my work at Numinous.FM, my career work as a technical consultant, and my novels, I haven&rsquo;t regularly posted a blog. I hope to change that going forward, as well as start contributing to the IndieWeb culture. I&rsquo;m moving over from a Wordpress Blog, so things are a bit sparse here, but in time I hope to add more content.</p>\n",
 				"content_text": "This is the quintissential \"hello world\" for the blogsphere. As much as I write on a regular basis for my work at Numinous.FM, my career work as a technical consultant, and my novels, I haven't regularly posted a blog. I hope to change that going forward, as well as start contributing to the IndieWeb culture. I'm moving over from a Wordpress Blog, so things are a bit sparse here, but in time I hope to add more content.\n",
 				"date_published": "2020-08-29T08:36:00-05:00",
-				"url": "https://javier.plumey.com/2020/08/29/this-is-the.html"
+				"url": "https://plumey.com/2020/08/29/this-is-the.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2013/10/29/find-any-photo.html",
@@ -684,7 +818,7 @@
 				"content_html": "<p>I just discovered this fantastic search engine for the NASA Astronomy Picture of the Day library. It&rsquo;s written by Stuart who runs the @apod twitter account and blogs at <!-- raw HTML omitted --><a href=\"http://www.strudel.org.uk/blog/astro/\">http://www.strudel.org.uk/blog/astro/</a><!-- raw HTML omitted -->. Stuart <!-- raw HTML omitted -->chronicles<!-- raw HTML omitted --> why he wrote the search engine (spoiler: government shutdown) and goes a bit into some of the technical work to make it happen. He&rsquo;s also the man behind this excellent <!-- raw HTML omitted -->Virtual Sky HTML5 Planetarium<!-- raw HTML omitted -->. If you&rsquo;re an astronomy nerd, Stuarts&rsquo;s web site ought to get your heart rate going.</p>\n<p>I&rsquo;m currently in the tail end of a writing project and I&rsquo;ve used the APOD search to get photo inspiration, descriptive support of astronomical objects in my story, and sadly, to procrastinate while dealing with writer&rsquo;s block. It&rsquo;s a great tool. Go check it out.</p>\n",
 				"content_text": "I just discovered this fantastic search engine for the NASA Astronomy Picture of the Day library. It's written by Stuart who runs the @apod twitter account and blogs at <a href=\"http://www.strudel.org.uk/blog/astro/\" target=\"_blank\">http://www.strudel.org.uk/blog/astro/</a>. Stuart <a href=\"http://www.strudel.org.uk/blog/astro/001032.shtml\" target=\"_blank\">chronicles</a> why he wrote the search engine (spoiler: government shutdown) and goes a bit into some of the technical work to make it happen. He's also the man behind this excellent <a href=\"http://lcogt.net/virtualsky\" title=\"Virtual Sky HTML5 Planetarium\" target=\"_blank\">Virtual Sky HTML5 Planetarium</a>. If you're an astronomy nerd, Stuarts's web site ought to get your heart rate going.\n\nI'm currently in the tail end of a writing project and I've used the APOD search to get photo inspiration, descriptive support of astronomical objects in my story, and sadly, to procrastinate while dealing with writer's block. It's a great tool. Go check it out.\n",
 				"date_published": "2013-10-29T09:34:19-05:00",
-				"url": "https://javier.plumey.com/2013/10/29/find-any-photo.html"
+				"url": "https://plumey.com/2013/10/29/find-any-photo.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2013/10/25/options-for-documenting.html",
@@ -692,7 +826,7 @@
 				"content_html": "<p><!-- raw HTML omitted -->** Update 2013-10-25 to include nValt<!-- raw HTML omitted --></p>\n<p>You&rsquo;ve spent months and months developing the backstory, characters, and places for your story. You&rsquo;ve obsessed over every detail. For instance you know that your main character loves pizza with anchovies but only on Tuesday and only when he&rsquo;s eating at home. You&rsquo;ve designed a planet where the terraforming process has left the swamps smelling like flatulence and the natives looking like glow-in-the-dark bobble heads.</p>\n<p>But now that you&rsquo;re deep in your writing you need to remember those details so that you don&rsquo;t send your hero running in the nausea-inducing forest of your terraformed planet without a gas mask. Where do you look? How are you storing this massive Tolkien-ish universe you&rsquo;ve built? Should you? Yes! Documenting your created universe so that you always have a place to reference your characters and settings.</p>\n<p>I&rsquo;m in the middle of writing a science fiction story for kids and I&rsquo;m struggling with the same question.  Here are my list of requirements:</p>\n<!-- raw HTML omitted -->\n<p>Evernote will let you share your notebooks to individuals or to the entire web using a Public Link. <!-- raw HTML omitted -->Here&rsquo;s an example of this<!-- raw HTML omitted -->. Notice the lack of any real organization, sorting, and hierarchy. If you have a Premium account you can sync the notes and notebooks offline to your devices. Sharing the notebook to the world is easy, but editing requires an Evernote account and explicitly granting permissions to the editor. This might be fine if you&rsquo;re working with an agent/publisher/editor but not ideal for the public.</p>\n<p>If you&rsquo;re already using Evernote to keep track of your universe while you&rsquo;re writing, this option might be a natural progression.</p>\n<p>So these are just two options that I&rsquo;m currently playing with. Are you a writer? Do you have similar requirements? What do you do? Please let me know in the comments.</p>\n<!-- raw HTML omitted -->\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n",
 				"content_text": "<em>** Update 2013-10-25 to include nValt</em>\n\nYou've spent months and months developing the backstory, characters, and places for your story. You've obsessed over every detail. For instance you know that your main character loves pizza with anchovies but only on Tuesday and only when he's eating at home. You've designed a planet where the terraforming process has left the swamps smelling like flatulence and the natives looking like glow-in-the-dark bobble heads.\n\nBut now that you're deep in your writing you need to remember those details so that you don't send your hero running in the nausea-inducing forest of your terraformed planet without a gas mask. Where do you look? How are you storing this massive Tolkien-ish universe you've built? Should you? Yes! Documenting your created universe so that you always have a place to reference your characters and settings.\n\nI'm in the middle of writing a science fiction story for kids and I'm struggling with the same question.  Here are my list of requirements:\n<ol>\n\t<li><strong>I need a way to create relationships between items.</strong> If a character lives on a terraformed planet I should be able to link the character to the planet bidirectionally and list all of the characters of importance that also live on that planet.</li>\n\t<li> <strong>I need a way to search across all items.</strong> This is a no-brainer. I remember vaguely that one of my characters had an obsession with peanut butter. But which one?</li>\n\t<li><strong>I need to update my universe at any time no matter where I am.</strong> Like many of us, I'm on the go quite a bit. So access to from my iPad, browser, and even in some offline capacity would be very useful.</li>\n\t<li><strong>I need to eventually share my universe with a publisher/agent and with the public.</strong> Why would I want to expose my universe to the outside world? Because I eventually want to get published. Any tool that conveys the depth of my story will help me to get published (so I hope). Plus, I would love to eventually let fans explore the universe on their own and maybe even contribute to it based on what they've read in the book(s).</li>\n\t<li><strong>I need to display images, video, and audio.</strong> I document my universe using diagrams, photos, video clips, and even audio clippings (mostly from my commute to work). These content types should all be viewable within the library.</li>\n\t<li><strong>I need to reference the library no matter where I am.</strong> This is the one requirement that is seemingly at odds with #3 and #4 above. I might need access while on a plane or while sitting at my son's basketball practice where there's no signal.</li>\n</ol>\n<h1>Option #1 - Build an actual Wiki</h1>\nWikis have been around for a long time. They're easy to edit and many of the newer wiki types let you embed video and audio. Creating links between documents is easy. Users can edit wikis themselves and you can even mark some hosted wikis as private if the wiki provider offers that feature. The problem with most wikis is that there is no offline access to them with the option to synch up changes you've made while offline. I looked at <a href=\"http://flyingmeat.com/voodoopad/\" target=\"_blank\">Flying Meat's VoodooPad</a>  and it comes close. It offers a Web Export option that creates static HTML pages for your entire wiki. They even offer an iOS client that lets you edit files on the go if you use Dropbox to store your VooDooPad file. The software costs $40 but they do offer a free trial. I'm currently evaluating this solution. My main question as of now is whether or not you can sync the entire wiki offline on the iOS client for viewing offline.\n<h1>Option #2 - Evernote</h1>\nIf you're into information management you've already heard of Evernote. It's the uber note taking and digital collection platform that runs on the web, desktop, and mobile devices. I created an Evernote notebook and created notes for various characters. Then I linked them together by creating an index note with links to the individual notes. The process is cumbersome. Dragging and dropping on the desktop is easy, but editing the links between notes on their mobile devices is difficult. I did find some handy AppleScript code to automate this but it didn't work well and resulted in even more work for me.\n\nEvernote will let you share your notebooks to individuals or to the entire web using a Public Link. <a href=\"https://www.evernote.com/pub/jplumey/testuniversenotebook\" target=\"_blank\">Here's an example of this</a>. Notice the lack of any real organization, sorting, and hierarchy. If you have a Premium account you can sync the notes and notebooks offline to your devices. Sharing the notebook to the world is easy, but editing requires an Evernote account and explicitly granting permissions to the editor. This might be fine if you're working with an agent/publisher/editor but not ideal for the public.\n\nIf you're already using Evernote to keep track of your universe while you're writing, this option might be a natural progression.\n\nSo these are just two options that I'm currently playing with. Are you a writer? Do you have similar requirements? What do you do? Please let me know in the comments.\n<h1> Option #3 - nValt</h1>\n<a href=\"http://brettterpstra.com/projects/nvalt/\">nValt</a> is a simple yet powerful note-taking software that allows you to create simple text notes using your keyboard. I like it because you can very quickly create new documents that link to each other. Just start typing a title, hit Enter and you have a text file. Once in you're in your text file, put something in brackets like this: [[Characters]], and nValt turns that into a link. Click the link, hit Enter, and you have your Characters document. No, it doesn't export easily and it doesn't support images or videos, but it has the option to save each note as a file which you can sync with Dropbox and thus edit on any device you want. I wish I could create notes and links this easily in Evernote. If you don't need images or video or any kind of rich text (although nValt does support Markdown), this might be a lightning-fast way to get your universe documented.\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n",
 				"date_published": "2013-10-25T10:15:04-05:00",
-				"url": "https://javier.plumey.com/2013/10/25/options-for-documenting.html"
+				"url": "https://plumey.com/2013/10/25/options-for-documenting.html"
 			}
 	]
 }
