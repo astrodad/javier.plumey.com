@@ -7,10 +7,72 @@
 	"items": [
 		
 			{
+				"id": "http://plumey.micro.blog/2024/03/30/found-a-funky.html",
+				
+				"content_html": "<p>Found a funky Asian street food restaurant in Bethesda, MD today.</p>\n<p><a href=\"https://plumey.com/uploads/2024/9a26a348ac.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"b5cd258f92031b6bde2bc2b388f70fe2\"\n   \n>\n  <img src =\"https://plumey.com/uploads/2024/9a26a348ac.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A lit filament bulb hangs in front of a wall adorned with various posters exhibiting eclectic imagery, including text and graphics, invoking a retro, artistic vibe.\" \n        \n  />\n</a>\n\n</p>\n<p><a href=\"https://plumey.com/uploads/2024/img-1227.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"b5cd258f92031b6bde2bc2b388f70fe2\"\n   \n>\n  <img src =\"https://plumey.com/uploads/2024/img-1227.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Neon signs and stickers dominate an urban night scene, with a prominent illuminated orange fish sign in the foreground against a backdrop of various advertisements and neon lights.\" \n        \n  />\n</a>\n\n</p>\n",
+				"content_text": "Found a funky Asian street food restaurant in Bethesda, MD today. \n\n![A lit filament bulb hangs in front of a wall adorned with various posters exhibiting eclectic imagery, including text and graphics, invoking a retro, artistic vibe.](https://plumey.com/uploads/2024/9a26a348ac.jpg)\n\n![Neon signs and stickers dominate an urban night scene, with a prominent illuminated orange fish sign in the foreground against a backdrop of various advertisements and neon lights.](https://plumey.com/uploads/2024/img-1227.jpeg)\n",
+				"date_published": "2024-03-30T22:20:37-04:00",
+				"url": "https://plumey.com/2024/03/30/found-a-funky.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/03/29/so-glad-this.html",
+				
+				"content_html": "<p>So glad this week is winding down. Just a couple more days, including a hectic Easter with worship and technical responsibilities, then I’m off for five days visiting NYC!</p>\n",
+				"content_text": "So glad this week is winding down. Just a couple more days, including a hectic Easter with worship and technical responsibilities, then I’m off for five days visiting NYC! \n",
+				"date_published": "2024-03-29T21:55:39-04:00",
+				"url": "https://plumey.com/2024/03/29/so-glad-this.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/03/29/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780679763888\">The Warmth of Other Suns</a> by Isabel Wilkerson 📚</p>\n<p>Powerful. Review coming soon.</p>\n",
+				"content_text": "Finished reading: [The Warmth of Other Suns](https://micro.blog/books/9780679763888) by Isabel Wilkerson 📚\n\nPowerful. Review coming soon. \n",
+				"date_published": "2024-03-29T20:18:04-04:00",
+				"url": "https://plumey.com/2024/03/29/finished-reading-the.html"
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/03/27/hours-musicians-separate.html",
+				
+				"content_html": "<p>3.5 hours, 9 musicians, 3 separate worship teams, all set up with IEM and vocal and instrumental presets. Whirlwind of a rehearsal but so good.</p>\n",
+				"content_text": "3.5 hours, 9 musicians, 3 separate worship teams, all set up with IEM and vocal and instrumental presets. Whirlwind of a rehearsal but so good. \n",
+				"date_published": "2024-03-27T21:46:50-04:00",
+				"url": "https://plumey.com/2024/03/27/hours-musicians-separate.html",
+				"tags": ["faith","tech"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/03/26/first-day-back.html",
+				
+				"content_html": "<p>First day back in the office after working from home for four years. Was fun to discover the IT guys raided my working space. I had some nice convos and there are aspects I’ve missed but overall it’s overrated.</p>\n<p><a href=\"https://plumey.com/uploads/2024/03cc240dde.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"26fe96f710d861f64440291994654121\"\n   \n>\n  <img src =\"https://plumey.com/uploads/2024/03cc240dde.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A cluttered office space with desks, computers, cables, and chairs; disarray reflects ongoing activity or transition; situated in an indoor environment with carpeted flooring. There is no text.\" \n        \n  />\n</a>\n\n</p>\n<p><a href=\"https://plumey.com/uploads/2024/7ce66820b8.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"26fe96f710d861f64440291994654121\"\n   \n>\n  <img src =\"https://plumey.com/uploads/2024/7ce66820b8.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Two stylized hands under a tap with water and soap; below is a hand icon with germs, crossed out, indicating no germs after washing.\" \n        \n  />\n</a>\n\n</p>\n",
+				"content_text": "First day back in the office after working from home for four years. Was fun to discover the IT guys raided my working space. I had some nice convos and there are aspects I’ve missed but overall it’s overrated. \n\n![A cluttered office space with desks, computers, cables, and chairs; disarray reflects ongoing activity or transition; situated in an indoor environment with carpeted flooring. There is no text.](https://plumey.com/uploads/2024/03cc240dde.jpg)\n\n![Two stylized hands under a tap with water and soap; below is a hand icon with germs, crossed out, indicating no germs after washing.](https://plumey.com/uploads/2024/7ce66820b8.jpg)\n",
+				"date_published": "2024-03-26T23:09:48-04:00",
+				"url": "https://plumey.com/2024/03/26/first-day-back.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/03/26/listening-to-upgrade.html",
+				
+				"content_html": "<p>🎙️ Listening to <a href=\"https://overcast.fm/+Fcm_CRBZc\">Upgrade - 504: Tone 47</a><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n    <button class=\"tinylytics_kudos\" data-path=\"/2024/03/26/listening-to-upgrade.html\"></button>\n<!-- raw HTML omitted --></p>\n",
+				"content_text": "🎙️ Listening to [Upgrade - 504: Tone 47]( https://overcast.fm/+Fcm_CRBZc)<p></p><p>{{< tinykudos >}}</p>\n",
+				"date_published": "2024-03-26T20:51:22-04:00",
+				"url": "https://plumey.com/2024/03/26/listening-to-upgrade.html",
+				"tags": ["podcast"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/03/26/well-it-was.html",
+				
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Well, it was nice to know you Key Bridge. I know several people at my son&rsquo;s school who are impacted by this in terms of their daily commute. Thankfully we are not reliant on this bridge. My thoughts and prayers go out to anyone affected by this.</p>\n",
+				"content_text": "<video src=\"https://cdn.uploads.micro.blog/27737/2024/screenshotsafari2024-03-26-at-08.21.24.mp4\" controls=\"controls\" preload=\"metadata\"></video>\r\n\r\nWell, it was nice to know you Key Bridge. I know several people at my son's school who are impacted by this in terms of their daily commute. Thankfully we are not reliant on this bridge. My thoughts and prayers go out to anyone affected by this.\n",
+				"date_published": "2024-03-26T08:25:05-04:00",
+				"url": "https://plumey.com/2024/03/26/well-it-was.html",
+				"tags": ["life"]
+			},
+			{
 				"id": "http://plumey.micro.blog/2024/03/24/lovely-day-though.html",
 				
-				"content_html": "<p>Lovely day (though a bit chilly) for a walk along the blossoms.</p>\n<p><a href=\"https://plumey.com/uploads/2024/img-1200.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"909923d1a9e162bf4655829fe1faba38\"\n   \n>\n  <img src =\"https://plumey.com/uploads/2024/img-1200.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A butterfly-shaped kite flies against a clear blue sky, trailing a long black tail.\" \n        \n  />\n</a>\n\n</p>\n<p><a href=\"https://plumey.com/uploads/2024/img-1194.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"909923d1a9e162bf4655829fe1faba38\"\n   \n>\n  <img src =\"https://plumey.com/uploads/2024/img-1194.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"White cherry blossoms in focus, with a blurred person walking behind, in a sunny park setting.\" \n        \n  />\n</a>\n\n</p>\n",
-				"content_text": "Lovely day (though a bit chilly) for a walk along the blossoms. \n\n![A butterfly-shaped kite flies against a clear blue sky, trailing a long black tail.](https://plumey.com/uploads/2024/img-1200.jpeg)\n\n![White cherry blossoms in focus, with a blurred person walking behind, in a sunny park setting.](https://plumey.com/uploads/2024/img-1194.jpeg)\n",
+				"content_html": "<p>Lovely day (though a bit chilly) for a walk along the blossoms.</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/img-1200.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"909923d1a9e162bf4655829fe1faba38\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/img-1200.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A butterfly-shaped kite flies against a clear blue sky, trailing a long black tail.\" \n        \n  />\n</a>\n\n</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/img-1194.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"909923d1a9e162bf4655829fe1faba38\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/img-1194.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"White cherry blossoms in focus, with a blurred person walking behind, in a sunny park setting.\" \n        \n  />\n</a>\n\n</p>\n",
+				"content_text": "Lovely day (though a bit chilly) for a walk along the blossoms. \n\n![A butterfly-shaped kite flies against a clear blue sky, trailing a long black tail.](https://cdn.uploads.micro.blog/27737/2024/img-1200.jpeg)\n\n![White cherry blossoms in focus, with a blurred person walking behind, in a sunny park setting.](https://cdn.uploads.micro.blog/27737/2024/img-1194.jpeg)\n",
 				"date_published": "2024-03-24T19:29:08-04:00",
 				"url": "https://plumey.com/2024/03/24/lovely-day-though.html",
 				"tags": ["life"]
@@ -36,8 +98,8 @@
 			{
 				"id": "http://plumey.micro.blog/2024/03/23/in-the-city.html",
 				
-				"content_html": "<p>In the city, dropping off the young one for German class.</p>\n<p><a href=\"https://plumey.com/uploads/2024/img-1163.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"fd2f8d68ec496c680609e13bf0b7b685\"\n   \n>\n  <img src =\"https://plumey.com/uploads/2024/img-1163.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A blurred multilevel parking structure with ambiguous light reflections and shadows, evoking a sense of movement or rain.\" \n        \n  />\n</a>\n\n</p>\n",
-				"content_text": "In the city, dropping off the young one for German class. \n\n![A blurred multilevel parking structure with ambiguous light reflections and shadows, evoking a sense of movement or rain.](https://plumey.com/uploads/2024/img-1163.jpeg)\n",
+				"content_html": "<p>In the city, dropping off the young one for German class.</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/img-1163.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"fd2f8d68ec496c680609e13bf0b7b685\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/img-1163.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A blurred multilevel parking structure with ambiguous light reflections and shadows, evoking a sense of movement or rain.\" \n        \n  />\n</a>\n\n</p>\n",
+				"content_text": "In the city, dropping off the young one for German class. \n\n![A blurred multilevel parking structure with ambiguous light reflections and shadows, evoking a sense of movement or rain.](https://cdn.uploads.micro.blog/27737/2024/img-1163.jpeg)\n",
 				"date_published": "2024-03-23T09:58:22-04:00",
 				"url": "https://plumey.com/2024/03/23/in-the-city.html",
 				"tags": ["life"]
@@ -94,7 +156,16 @@
 				"content_text": "🎙️ Listening to [Enkindle: Family Scripture Reflections - Enkindle 203 – 03.24.24 – Not Just Spectators]( https://overcast.fm/+bcmcd-awM)<p></p><p>{{< tinykudos >}}</p>\n",
 				"date_published": "2024-03-22T13:44:37-04:00",
 				"url": "https://plumey.com/2024/03/22/listening-to-enkindle.html",
-				"tags": ["Podcast"]
+				"tags": ["podcast"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/03/22/listening-to-npr.html",
+				
+				"content_html": "<p>🎙️ Listening to <a href=\"https://overcast.fm/+Ht7TtrLF0\">NPR News Now - NPR News: 03-22-2024 6AM EDT</a><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n    <button class=\"tinylytics_kudos\" data-path=\"/2024/03/22/listening-to-npr.html\"></button>\n<!-- raw HTML omitted --></p>\n",
+				"content_text": "🎙️ Listening to [NPR News Now - NPR News: 03-22-2024 6AM EDT]( https://overcast.fm/+Ht7TtrLF0)<p></p><p>{{< tinykudos >}}</p>\n",
+				"date_published": "2024-03-22T07:33:44-04:00",
+				"url": "https://plumey.com/2024/03/22/listening-to-npr.html",
+				"tags": ["podcast"]
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/03/21/when-you-cook.html",
@@ -204,6 +275,15 @@
 				"url": "https://plumey.com/2024/03/12/my-week.html"
 			},
 			{
+				"id": "http://plumey.micro.blog/2024/03/12/listening-to-astronomy.html",
+				
+				"content_html": "<p>🎙️ Listening to <a href=\"https://overcast.fm/+QwxJr6cWI\">Astronomy Cast - Ep. 711: NASA Innovative Advanced Concepts (NIAC)</a><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n    <button class=\"tinylytics_kudos\" data-path=\"/2024/03/12/listening-to-astronomy.html\"></button>\n<!-- raw HTML omitted --></p>\n",
+				"content_text": "🎙️ Listening to [Astronomy Cast - Ep. 711: NASA Innovative Advanced Concepts (NIAC)]( https://overcast.fm/+QwxJr6cWI)<p></p><p>{{< tinykudos >}}</p>\n",
+				"date_published": "2024-03-12T07:45:02-04:00",
+				"url": "https://plumey.com/2024/03/12/listening-to-astronomy.html",
+				"tags": ["podcast"]
+			},
+			{
 				"id": "http://plumey.micro.blog/2024/03/11/httpswwwyoutubecomwatchvctqkmrafw-as-a.html",
 				
 				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=cTQKmR6a9fw\">https://www.youtube.com/watch?v=cTQKmR6a9fw</a></p>\n<p>As a Christian, I find the conflation of Christianity of nationalism concerning. Too many out there are intentionally mixing the two in an attempt to seize power and assert their own will over the rights of others. This reminds me of the &ldquo;family values&rdquo; of the KKK in the 20&rsquo;s.</p>\n",
@@ -231,6 +311,33 @@
 				"tags": ["life"]
 			},
 			{
+				"id": "http://plumey.micro.blog/2024/03/08/httpswwwyoutubecomwatchvetvmmynsm-the-worship.html",
+				
+				"content_html": "<p><a href=\"https://youtu.be/ET-vMMYn-sM?si=BYBI2tOykuqArQ-B\">https://www.youtube.com/watch?v=ET-vMMYn-sM</a></p>\n<p>The worship team at Elevation Riverwalk did a variant of this song the day after my dad’s funeral and I still can’t listen to it without fighting the emotions.</p>\n",
+				"content_text": "[https://www.youtube.com/watch?v=ET-vMMYn-sM](https://youtu.be/ET-vMMYn-sM?si=BYBI2tOykuqArQ-B)\n\nThe worship team at Elevation Riverwalk did a variant of this song the day after my dad’s funeral and I still can’t listen to it without fighting the emotions.\n",
+				"date_published": "2024-03-08T21:17:46-04:00",
+				"url": "https://plumey.com/2024/03/08/httpswwwyoutubecomwatchvetvmmynsm-the-worship.html",
+				"tags": ["youtube"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/03/08/listening-to-the.html",
+				
+				"content_html": "<p>🎙️ Listening to <a href=\"https://overcast.fm/+Zs30hkFas\">The Holy Post - 607: The Gift of Disillusionment with Mike Cosper</a><!-- raw HTML omitted -->Always well balanced and intelligent <!-- raw HTML omitted --><!-- raw HTML omitted -->\n    <button class=\"tinylytics_kudos\" data-path=\"/2024/03/08/listening-to-the.html\"></button>\n<!-- raw HTML omitted --></p>\n",
+				"content_text": "🎙️ Listening to [The Holy Post - 607: The Gift of Disillusionment with Mike Cosper]( https://overcast.fm/+Zs30hkFas)<p>Always well balanced and intelligent </p><p>{{< tinykudos >}}</p>\n",
+				"date_published": "2024-03-08T15:35:14-04:00",
+				"url": "https://plumey.com/2024/03/08/listening-to-the.html",
+				"tags": ["podcast"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/03/08/listening-to-npr.html",
+				
+				"content_html": "<p>🎙️ Listening to <a href=\"https://overcast.fm/+Ht7TtbSE4\">NPR News Now - NPR News: 03-08-2024 7AM EST</a><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n    <button class=\"tinylytics_kudos\" data-path=\"/2024/03/08/listening-to-npr.html\"></button>\n<!-- raw HTML omitted --></p>\n",
+				"content_text": "🎙️ Listening to [NPR News Now - NPR News: 03-08-2024 7AM EST]( https://overcast.fm/+Ht7TtbSE4)<p></p><p>{{< tinykudos >}}</p>\n",
+				"date_published": "2024-03-08T08:40:51-04:00",
+				"url": "https://plumey.com/2024/03/08/listening-to-npr.html",
+				"tags": ["podcast"]
+			},
+			{
 				"id": "http://plumey.micro.blog/2024/03/07/daily-telescope-a.html",
 				
 				"content_html": "<p><a href=\"https://arstechnica.com/space/2024/03/daily-telescope-a-brilliant-shot-of-a-comet-as-it-nears-the-sun/\">Daily Telescope: A brilliant shot of a comet as it nears the Sun | Ars Technica</a></p>\n<p>I’m really enjoying these astronomy posts at Ars Technica.</p>\n",
@@ -256,6 +363,42 @@
 				"date_published": "2024-03-06T20:47:30-04:00",
 				"url": "https://plumey.com/2024/03/06/enjoying-some-d.html",
 				"tags": ["life"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/03/06/listening-to-tomac.html",
+				
+				"content_html": "<p>🎙️ Listening to <a href=\"https://overcast.fm/+gj8I46_V8\">9to5Mac Daily - iOS 17.4 now available, free Apple TV+ movies</a><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n    <button class=\"tinylytics_kudos\" data-path=\"/2024/03/06/listening-to-tomac.html\"></button>\n<!-- raw HTML omitted --></p>\n",
+				"content_text": "🎙️ Listening to [9to5Mac Daily - iOS 17.4 now available, free Apple TV+ movies]( https://overcast.fm/+gj8I46_V8)<p></p><p>{{< tinykudos >}}</p>\n",
+				"date_published": "2024-03-06T19:34:57-04:00",
+				"url": "https://plumey.com/2024/03/06/listening-to-tomac.html",
+				"tags": ["podcast"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/03/06/listening-to-enkindle.html",
+				
+				"content_html": "<p>🎙️ Listening to <a href=\"https://overcast.fm/+bcmfaJJg0\">Enkindle: Family Scripture Reflections - Enkindle 201 – 03.10.24 – Light Up Our Darkness</a><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n    <button class=\"tinylytics_kudos\" data-path=\"/2024/03/06/listening-to-enkindle.html\"></button>\n<!-- raw HTML omitted --></p>\n",
+				"content_text": "🎙️ Listening to [Enkindle: Family Scripture Reflections - Enkindle 201 – 03.10.24 – Light Up Our Darkness]( https://overcast.fm/+bcmfaJJg0)<p></p><p>{{< tinykudos >}}</p>\n",
+				"date_published": "2024-03-06T08:40:01-04:00",
+				"url": "https://plumey.com/2024/03/06/listening-to-enkindle.html",
+				"tags": ["podcast"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/03/06/listening-to-the.html",
+				
+				"content_html": "<p>🎙️ Listening to <a href=\"https://overcast.fm/+BHM9sdCxw4\">The Pillar TL;DR (private feed for plumey@icloud.com) - The Tuesday Pillar Post - March 5, 2024</a><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n    <button class=\"tinylytics_kudos\" data-path=\"/2024/03/06/listening-to-the.html\"></button>\n<!-- raw HTML omitted --></p>\n",
+				"content_text": "🎙️ Listening to [The Pillar TL;DR (private feed for plumey@icloud.com) - The Tuesday Pillar Post - March 5, 2024]( https://overcast.fm/+BHM9sdCxw4)<p></p><p>{{< tinykudos >}}</p>\n",
+				"date_published": "2024-03-06T08:29:01-04:00",
+				"url": "https://plumey.com/2024/03/06/listening-to-the.html",
+				"tags": ["podcast"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/03/05/listening-to-upgrade.html",
+				
+				"content_html": "<p>🎙️ Listening to <a href=\"https://overcast.fm/+Fcm9SnC1A\">Upgrade - 502: It’s the Way Towards Colour</a><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n    <button class=\"tinylytics_kudos\" data-path=\"/2024/03/05/listening-to-upgrade.html\"></button>\n<!-- raw HTML omitted --></p>\n",
+				"content_text": "🎙️ Listening to [Upgrade - 502: It’s the Way Towards Colour]( https://overcast.fm/+Fcm9SnC1A)<p></p><p>{{< tinykudos >}}</p>\n",
+				"date_published": "2024-03-05T08:31:43-04:00",
+				"url": "https://plumey.com/2024/03/05/listening-to-upgrade.html",
+				"tags": ["podcast"]
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/03/04/meg-hunterkilmers-bible.html",
@@ -300,7 +443,7 @@
 				"content_text": "# My Week 2024-03-03\n\nWe were all exhausted by the travel to SC for my father's funeral and so I sort of zombied my way through the week. \n\nI spent a good amount of time working on the sound system installation at St. Augustine. We are trying to wrap that whole effort up and move towards the video phase, but there are still a ton of details that need to be sorted out like training, integration into the worship teams, documentation, and then smaller add-ons like ambiance and choir microphones. \n\nOn Friday my oldest came to town to deal with a traffic citation and it was his first time in a court room. I hope he was \"scared straight\" and will slow the heck down. \n\nThe dog needed another round of laser treatment after her CCL tear a couple of months ago. She seems to improve every day, although given how hard her life is, I'm surprised she hasn't bounced back quicker.\n\n![A small fluffy tan dog lying on a couch beside a person reading a book.](https://cdn.uploads.micro.blog/27737/2024/b19f222e-8a86-4baa-91aa-8d92d8175778.jpg)\n\nWe spent a lovely morning up in Baltimore while the youngest was in German class. We had a nice breakfast at a place called Dooby's \n\n![Interior of a cozy cafe with brick walls, customers dining and chatting at tables, and staff working behind the counter.](https://media.plumey.com/uploads/2024/0f07bae6a8.jpg)\n\n\nAnd then we found a nice plant shop in Mount Vernon where we talked with the owner about football (the other kind) and about his shop. It's always great to meet the owner of a small business.\n\n![A stylish bar area with shelves stocked with wine bottles against a floral-patterned wallpaper. A potted plant sits on the glossy bar top in the foreground, flanked by bar tools, cocktail glasses, and decorative items.](https://wander.plumey.com/uploads/2024/b971ce24e5.jpg)\n\n\nWe then took the oldest and his girlfriend to dinner to celebrate my youngest's Confirmation, which happened today. We took them to our favorite Indian place in town to much enjoyment, but a major hit to the wallet.\n\nThe actual Confirmation Mass was lovely. We had a stand-in Bishop since the one scheduled had a family emergency. The music was great (they were my friends) and everything went mostly well. My youngest also read a passage and did a great job. \n\n![A Catholic bishop in purple vestments anointing a man's forehead during a religious ceremony.](https://plumeyfamily.micro.blog/uploads/2024/5099d437-8edf-4f75-8629-377ca6ec0fd6.jpg)\n\n\n# Media\n\n- **TV**: I got to watch a couple episodes of the new Bad Batch season. It's a great show and I'm very excited about how they will wrap this up and how it weaves into the narrative of the sequels. \n- **Gaming**: nothing new on this front as I really didn't have any time to play\n- **Web**: This week I've done a fair bit of reading on various audio stuff related to my system integration project. I had to learn some new equalization techniques. I'll post some of this later. \n\nI didn't gather links, but I'm planning on starting to do that this week.  Here are a few things I remember looking into:\n\n1. [**https://cusdis.com**](https://cusdis.com) I am looking at integrating some comments into posts for people who won't create a Micro.blog account.\n2. [User routing Discussion on Behringer Support](https://community.musictribe.com/discussion/behringer/189/197/325087/x32-rack-1-1-output-routing-with-local-and-aes50-outputs)\n\n",
 				"date_published": "2024-03-03T21:46:37-04:00",
 				"url": "https://plumey.com/2024/03/03/weeknotes-so-much.html",
-				"tags": ["Weeknotes"]
+				"tags": ["weeknotes"]
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/03/03/making-a-breakfast.html",
@@ -327,6 +470,60 @@
 				"content_text": "So much has happened in the last few days, and I’ve got a jumbled mess of thoughts and ideas in my head, that I haven’t posted. I’m hoping to catch up tomorrow!\n",
 				"date_published": "2024-03-01T01:24:30-04:00",
 				"url": "https://plumey.com/2024/03/01/so-much-has.html"
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/03/01/praise-by-elevation.html",
+				
+				"content_html": "<p>Praise by Elevation Worship. The day after my father’s funeral I went to a church in Charlotte and they did an incredible live version of this song. The original is awesome, but I love the energy and feel of this one!</p>\n<p><a href=\"https://www.youtube.com/watch?v=qegST3noRUY\">https://www.youtube.com/watch?v=qegST3noRUY</a>🎵</p>\n",
+				"content_text": "Praise by Elevation Worship. The day after my father’s funeral I went to a church in Charlotte and they did an incredible live version of this song. The original is awesome, but I love the energy and feel of this one! \n\n[https://www.youtube.com/watch?v=qegST3noRUY](https://www.youtube.com/watch?v=qegST3noRUY)🎵\n",
+				"date_published": "2024-03-01T01:06:49-04:00",
+				"url": "https://plumey.com/2024/03/01/praise-by-elevation.html",
+				"tags": ["youtube","music"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/29/listening-to-techmeme.html",
+				
+				"content_html": "<p>🎙️ Listening to <a href=\"https://overcast.fm/+BAde_JqMCo\">Techmeme Ride Home+ Premium Feed (🔓 for Javier Plumey) - Tue. 02/27 – Gaming Continues To Be A Bloodbath</a><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n    <button class=\"tinylytics_kudos\" data-path=\"/2024/02/29/listening-to-techmeme.html\"></button>\n<!-- raw HTML omitted --></p>\n",
+				"content_text": "🎙️ Listening to [Techmeme Ride Home+ Premium Feed (🔓 for Javier Plumey) - Tue. 02/27 – Gaming Continues To Be A Bloodbath]( https://overcast.fm/+BAde_JqMCo)<p></p><p>{{< tinykudos >}}</p>\n",
+				"date_published": "2024-02-29T09:15:50-04:00",
+				"url": "https://plumey.com/2024/02/29/listening-to-techmeme.html",
+				"tags": ["podcast"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/28/listening-to-universe.html",
+				
+				"content_html": "<p>🎙️ Listening to <a href=\"https://overcast.fm/+BcjPUL3-A\">Universe Today Podcast - [Space Bites] USA’s Crazy Moon Landing // Problems for Perseverance // New Glenn Goes Vertical</a><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n    <button class=\"tinylytics_kudos\" data-path=\"/2024/02/28/listening-to-universe.html\"></button>\n<!-- raw HTML omitted --></p>\n",
+				"content_text": "🎙️ Listening to [Universe Today Podcast - [Space Bites] USA’s Crazy Moon Landing // Problems for Perseverance // New Glenn Goes Vertical]( https://overcast.fm/+BcjPUL3-A)<p></p><p>{{< tinykudos >}}</p>\n",
+				"date_published": "2024-02-28T15:07:02-04:00",
+				"url": "https://plumey.com/2024/02/28/listening-to-universe.html",
+				"tags": ["podcast"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/28/listening-to-npr.html",
+				
+				"content_html": "<p>🎙️ Listening to <a href=\"https://overcast.fm/+Ht7Q1Old4\">NPR News Now - NPR News: 02-28-2024 6AM EST</a><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n    <button class=\"tinylytics_kudos\" data-path=\"/2024/02/28/listening-to-npr.html\"></button>\n<!-- raw HTML omitted --></p>\n",
+				"content_text": "🎙️ Listening to [NPR News Now - NPR News: 02-28-2024 6AM EST]( https://overcast.fm/+Ht7Q1Old4)<p></p><p>{{< tinykudos >}}</p>\n",
+				"date_published": "2024-02-28T08:16:28-04:00",
+				"url": "https://plumey.com/2024/02/28/listening-to-npr.html",
+				"tags": ["podcast"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/27/listening-to-techmeme.html",
+				
+				"content_html": "<p>🎙️ Listening to <a href=\"https://overcast.fm/+BAde_JqMCo\">Techmeme Ride Home+ Premium Feed (🔓 for Javier Plumey) - Tue. 02/27 – Gaming Continues To Be A Bloodbath</a><!-- raw HTML omitted -->My go-to podcast for daily tech news. I really enjoyed the Apple Insider Daily podcast, but they shut down today!😭<!-- raw HTML omitted --></p>\n\n    <button class=\"tinylytics_kudos\" data-path=\"/2024/02/27/listening-to-techmeme.html\"></button>\n\n",
+				"content_text": "🎙️ Listening to [Techmeme Ride Home+ Premium Feed (🔓 for Javier Plumey) - Tue. 02/27 – Gaming Continues To Be A Bloodbath]( https://overcast.fm/+BAde_JqMCo)<p>My go-to podcast for daily tech news. I really enjoyed the Apple Insider Daily podcast, but they shut down today!😭</p>\n\n{{< tinykudos >}}\n",
+				"date_published": "2024-02-27T17:54:18-04:00",
+				"url": "https://plumey.com/2024/02/27/listening-to-techmeme.html",
+				"tags": ["podcast"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/02/27/listening-to-mosaic.html",
+				
+				"content_html": "<p>🎙️ Listening to <a href=\"https://overcast.fm/+BNtj-bn88\">Mosaic Christian Church -Adulting 101 | The Life You Long For | Jonathan Moynihan</a><!-- raw HTML omitted -->Loving this new series about adulting from the perspective of someone who wants to bring God into their every-day responsibilities. <!-- raw HTML omitted --></p>\n",
+				"content_text": "🎙️ Listening to [Mosaic Christian Church -Adulting 101 | The Life You Long For | Jonathan Moynihan]( https://overcast.fm/+BNtj-bn88)<p>Loving this new series about adulting from the perspective of someone who wants to bring God into their every-day responsibilities. </p>\n",
+				"date_published": "2024-02-27T16:46:55-04:00",
+				"url": "https://plumey.com/2024/02/27/listening-to-mosaic.html",
+				"tags": ["podcast"]
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/02/26/im-looking-to.html",
