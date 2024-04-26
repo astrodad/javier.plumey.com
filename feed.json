@@ -7,50 +7,109 @@
 	"items": [
 		
 			{
-				"id": "http://plumey.micro.blog/2024/04/20/mbapr-day-he.html",
+				"id": "http://plumey.micro.blog/2024/04/25/i-used-anthropics.html",
 				
-				"content_html": "<p>📷 #mbApr Day 19</p>\n<p><a href=\"https://plumey.com/uploads/2024/img-1481.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"6f4bf602db52b8adde7fbad3b449e781\"\n   \n>\n  <img src =\"https://plumey.com/uploads/2024/img-1481.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A boy in a yellow jacket eagerly bites into a cream-filled cupcake, sitting against a floral-patterned background. The phrase &amp;ldquo;keep calm&amp;rdquo; is partially visible on his shirt.\" \n        \n  />\n</a>\n\n</p>\n<p>He could never get enough birthday cupcakes</p>\n",
-				"content_text": "📷 #mbApr Day 19\r\n\r\n![A boy in a yellow jacket eagerly bites into a cream-filled cupcake, sitting against a floral-patterned background. The phrase \"keep calm\" is partially visible on his shirt.](https://plumey.com/uploads/2024/img-1481.jpeg)\r\n\r\nHe could never get enough birthday cupcakes \n",
-				"date_published": "2024-04-20T11:21:53-04:00",
-				"url": "https://plumey.com/2024/04/20/mbapr-day-he.html"
+				"content_html": "<p>I used Anthropic&rsquo;s Claude today for the first time and it flat out invented quotes from Pope Benedict XVI. When I asked it for references, it apologized and said that was a summary of a statement he made but could not say where from. All of the links it referenced were old and none of them worked. Artificial, yes. Intelligence?  🤷🏽</p>\n",
+				"content_text": "I used Anthropic's Claude today for the first time and it flat out invented quotes from Pope Benedict XVI. When I asked it for references, it apologized and said that was a summary of a statement he made but could not say where from. All of the links it referenced were old and none of them worked. Artificial, yes. Intelligence?  🤷🏽\n",
+				"date_published": "2024-04-25T20:43:37-04:00",
+				"url": "https://plumey.com/2024/04/25/i-used-anthropics.html",
+				"tags": ["tech"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/04/24/its-not-going.html",
+				
+				"content_html": "<p>It’s not going to happen, but I would love an iPad Mini with an OLED screen.</p>\n",
+				"content_text": "It’s not going to happen, but I would love an iPad Mini with an OLED screen. \n",
+				"date_published": "2024-04-24T10:58:06-04:00",
+				"url": "https://plumey.com/2024/04/24/its-not-going.html"
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/04/23/mbapr-day-very.html",
+				
+				"content_html": "<p>📷 #mbApr Day 23</p>\n<p><a href=\"https://plumey.com/uploads/2024/img-1427.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"6f1555040387980e95874760ff2d7d24\"\n   \n>\n  <img src =\"https://plumey.com/uploads/2024/img-1427.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A silhouette of a person stands with arms outstretched in a fog-filled room illuminated by blue light, creating an ethereal atmosphere.\" \n        \n  />\n</a>\n\n</p>\n<p>Very dreamy audio exhibit at Mercer Labs NYC.</p>\n",
+				"content_text": "📷 #mbApr Day 23\r\n\r\n![A silhouette of a person stands with arms outstretched in a fog-filled room illuminated by blue light, creating an ethereal atmosphere.](https://plumey.com/uploads/2024/img-1427.jpeg)\r\n\r\nVery dreamy audio exhibit at Mercer Labs NYC. \n",
+				"date_published": "2024-04-23T20:01:45-04:00",
+				"url": "https://plumey.com/2024/04/23/mbapr-day-very.html"
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/04/23/listening-to-upgrade.html",
+				
+				"content_html": "<p>🎙️ Listening to <a href=\"https://overcast.fm/+Fcm-vnlEM\">Upgrade - 509: Save the Fines</a><!-- raw HTML omitted -->You know the traffic is bad when you can listen to an entire episode of Upgrade before you get home. <!-- raw HTML omitted --><!-- raw HTML omitted -->\n    <button class=\"tinylytics_kudos\" data-path=\"/2024/04/23/listening-to-upgrade.html\"></button>\n<!-- raw HTML omitted --></p>\n",
+				"content_text": "🎙️ Listening to [Upgrade - 509: Save the Fines]( https://overcast.fm/+Fcm-vnlEM)<p>You know the traffic is bad when you can listen to an entire episode of Upgrade before you get home. </p><p>{{< tinykudos >}}</p>\n",
+				"date_published": "2024-04-23T08:19:11-04:00",
+				"url": "https://plumey.com/2024/04/23/listening-to-upgrade.html",
+				"tags": ["podcast"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/04/22/mbapr-day-pale.html",
+				
+				"content_html": "<p>📷 #mbApr Day 22</p>\n<p><a href=\"https://plumey.com/uploads/2024/dsc01024.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"a80a69d2d8630b98aa1200ee68ab3632\"\n   \n>\n  <img src =\"https://plumey.com/uploads/2024/dsc01024.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A waxing crescent moon is visible in the vast blue sky during daytime.\" \n        \n  />\n</a>\n\n</p>\n<p>Pale dot of a moon on a blue sky</p>\n",
+				"content_text": "📷 #mbApr Day 22\r\n\r\n![A waxing crescent moon is visible in the vast blue sky during daytime.](https://plumey.com/uploads/2024/dsc01024.jpeg)\r\n\r\nPale dot of a moon on a blue sky \n",
+				"date_published": "2024-04-22T21:44:20-04:00",
+				"url": "https://plumey.com/2024/04/22/mbapr-day-pale.html"
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/04/21/mbapr-day-this.html",
+				
+				"content_html": "<p>📷 #mbApr Day 21</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/1330bc3796.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"d5f396e8089fcbd41bc191cd94c3c2ae\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/1330bc3796.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A large stone sculpture of a man with folded arms emerges from a solid block, with visitors around it. Engraved text reads: “OUT OF THE MOUNTAIN OF DESPAIR, A STONE OF HOPE.”\" \n        \n  />\n</a>\n\n</p>\n<p>This is one of my favorite monuments in DC. The quote says “OUT OF THE MOUNTAIN OF DESPAIR, A STONE OF HOPE”</p>\n",
+				"content_text": "📷 #mbApr Day 21\r\n\r\n![A large stone sculpture of a man with folded arms emerges from a solid block, with visitors around it. Engraved text reads: “OUT OF THE MOUNTAIN OF DESPAIR, A STONE OF HOPE.”](https://cdn.uploads.micro.blog/27737/2024/1330bc3796.jpeg)\r\n\r\nThis is one of my favorite monuments in DC. The quote says “OUT OF THE MOUNTAIN OF DESPAIR, A STONE OF HOPE”\n",
+				"date_published": "2024-04-21T19:57:33-04:00",
+				"url": "https://plumey.com/2024/04/21/mbapr-day-this.html"
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/04/20/mbapr-day-this.html",
+				
+				"content_html": "<p>📷 #mbApr Day 20</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/img-7437.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"0c25d7856de0a821b0afd0d516da530a\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/img-7437.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"An amber-colored drink with ice in a glass stemware, straw inserted, resting on a blue surface. Twinkle lights and a palm in the blurred background suggest an outdoor evening setting.\" \n        \n  />\n</a>\n\n</p>\n<p>This is the only kind of ice I want to see for a loooong time.</p>\n",
+				"content_text": "📷 #mbApr Day 20\r\n\r\n![An amber-colored drink with ice in a glass stemware, straw inserted, resting on a blue surface. Twinkle lights and a palm in the blurred background suggest an outdoor evening setting.](https://cdn.uploads.micro.blog/27737/2024/img-7437.jpeg)\r\n\r\nThis is the only kind of ice I want to see for a loooong time. \n",
+				"date_published": "2024-04-20T23:15:43-04:00",
+				"url": "https://plumey.com/2024/04/20/mbapr-day-this.html"
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/04/20/what-is-the.html",
+				
+				"content_html": "<p>What is the protocol for waiting in the ER for someone? Can I ask others why they’re waiting?</p>\n",
+				"content_text": "What is the protocol for waiting in the ER for someone? Can I ask others why they’re waiting?\n",
+				"date_published": "2024-04-20T18:39:28-04:00",
+				"url": "https://plumey.com/2024/04/20/what-is-the.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/04/19/mbapr-day-he.html",
+				
+				"content_html": "<p>📷 #mbApr Day 19</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/img-1481.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"8bc20157cade56fed260740eba0b38e5\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/img-1481.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A boy in a yellow jacket eagerly bites into a cream-filled cupcake, sitting against a floral-patterned background. The phrase &amp;ldquo;keep calm&amp;rdquo; is partially visible on his shirt.\" \n        \n  />\n</a>\n\n</p>\n<p>He could never get enough birthday cupcakes</p>\n",
+				"content_text": "📷 #mbApr Day 19\n\n![A boy in a yellow jacket eagerly bites into a cream-filled cupcake, sitting against a floral-patterned background. The phrase \"keep calm\" is partially visible on his shirt.](https://cdn.uploads.micro.blog/27737/2024/img-1481.jpeg)\n\nHe could never get enough birthday cupcakes \n",
+				"date_published": "2024-04-19T11:21:00-04:00",
+				"url": "https://plumey.com/2024/04/19/mbapr-day-he.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/04/18/mbapr-day-date.html",
 				
-				"content_html": "<p>📷 #mbApr Day 18</p>\n<p><a href=\"https://plumey.com/uploads/2024/98698569be.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"eb1781fdb9e486441b846fe1d2c8cc0a\"\n   \n>\n  <img src =\"https://plumey.com/uploads/2024/98698569be.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A gold-colored table lamp illuminates a marble surface, with blurred people and café setting in the background.\" \n        \n  />\n</a>\n\n</p>\n<p>Date night always puts me in a good mood.</p>\n",
-				"content_text": "📷 #mbApr Day 18\r\n\r\n![A gold-colored table lamp illuminates a marble surface, with blurred people and café setting in the background.](https://plumey.com/uploads/2024/98698569be.jpg)\r\n\r\nDate night always puts me in a good mood. \n",
+				"content_html": "<p>📷 #mbApr Day 18</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/98698569be.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"eb1781fdb9e486441b846fe1d2c8cc0a\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/98698569be.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A gold-colored table lamp illuminates a marble surface, with blurred people and café setting in the background.\" \n        \n  />\n</a>\n\n</p>\n<p>Date night always puts me in a good mood.</p>\n",
+				"content_text": "📷 #mbApr Day 18\r\n\r\n![A gold-colored table lamp illuminates a marble surface, with blurred people and café setting in the background.](https://cdn.uploads.micro.blog/27737/2024/98698569be.jpg)\r\n\r\nDate night always puts me in a good mood. \n",
 				"date_published": "2024-04-18T22:29:04-04:00",
 				"url": "https://plumey.com/2024/04/18/mbapr-day-date.html"
 			},
 			{
-				"id": "http://plumey.micro.blog/2024/04/18/mbapr-day-big.html",
-				
-				"content_html": "<p>📷 #mbApr Day 17</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/img-3649.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"203685225ed373b690a281086334e68a\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/img-3649.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Silhouetted trees frame a sunlit coastal scene with mist over the water and a mountainous backdrop.\" \n        \n  />\n</a>\n\n</p>\n<p>Big Sur</p>\n",
-				"content_text": "📷 #mbApr Day 17\r\n\r\n![Silhouetted trees frame a sunlit coastal scene with mist over the water and a mountainous backdrop.](https://cdn.uploads.micro.blog/27737/2024/img-3649.jpeg)\r\n\r\nBig Sur\n",
-				"date_published": "2024-04-18T12:39:15-04:00",
-				"url": "https://plumey.com/2024/04/18/mbapr-day-big.html"
-			},
-			{
 				"id": "http://plumey.micro.blog/2024/04/17/mbapr-day-big.html",
 				
-				"content_html": "<p>📷 #mbApr Day 17</p>\n<p><a href=\"https://plumey.com/uploads/2024/img-3649.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"00121fadbab70df58c3d2c265e4c3188\"\n   \n>\n  <img src =\"https://plumey.com/uploads/2024/img-3649.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Silhouetted trees frame a sunlit coastal scene with mist over the water and a mountainous backdrop.\" \n        \n  />\n</a>\n\n</p>\n<p>Big Sur</p>\n",
-				"content_text": "📷 #mbApr Day 17\n\n![Silhouetted trees frame a sunlit coastal scene with mist over the water and a mountainous backdrop.](https://plumey.com/uploads/2024/img-3649.jpeg)\n\nBig Sur\n",
+				"content_html": "<p>📷 #mbApr Day 17</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/img-3649.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"00121fadbab70df58c3d2c265e4c3188\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/img-3649.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Silhouetted trees frame a sunlit coastal scene with mist over the water and a mountainous backdrop.\" \n        \n  />\n</a>\n\n</p>\n<p>Big Sur</p>\n",
+				"content_text": "📷 #mbApr Day 17\n\n![Silhouetted trees frame a sunlit coastal scene with mist over the water and a mountainous backdrop.](https://cdn.uploads.micro.blog/27737/2024/img-3649.jpeg)\n\nBig Sur\n",
 				"date_published": "2024-04-17T12:39:00-04:00",
 				"url": "https://plumey.com/2024/04/17/mbapr-day-big.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/04/16/mbapr-day-queen.html",
 				
-				"content_html": "<p>📷 #mbApr Day 16</p>\n<p><a href=\"https://plumey.com/uploads/2024/img-2717.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"423f2623693ad8cf33c926455e3252bb\"\n   \n>\n  <img src =\"https://plumey.com/uploads/2024/img-2717.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A golden dog lies upside down, relaxed in a cream-colored bed, against a patterned gray rug in a room.\" \n        \n  />\n</a>\n\n</p>\n<p>Queen flâneur herself</p>\n",
-				"content_text": "📷 #mbApr Day 16\r\n\r\n![A golden dog lies upside down, relaxed in a cream-colored bed, against a patterned gray rug in a room.](https://plumey.com/uploads/2024/img-2717.jpeg)\r\n\r\nQueen flâneur herself \n",
+				"content_html": "<p>📷 #mbApr Day 16</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/img-2717.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"423f2623693ad8cf33c926455e3252bb\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/img-2717.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A golden dog lies upside down, relaxed in a cream-colored bed, against a patterned gray rug in a room.\" \n        \n  />\n</a>\n\n</p>\n<p>Queen flâneur herself</p>\n",
+				"content_text": "📷 #mbApr Day 16\r\n\r\n![A golden dog lies upside down, relaxed in a cream-colored bed, against a patterned gray rug in a room.](https://cdn.uploads.micro.blog/27737/2024/img-2717.jpeg)\r\n\r\nQueen flâneur herself \n",
 				"date_published": "2024-04-16T21:16:45-04:00",
 				"url": "https://plumey.com/2024/04/16/mbapr-day-queen.html"
 			},
 			{
 				"id": "http://plumey.micro.blog/2024/04/15/mbapr-day-photo.html",
 				
-				"content_html": "<p>📷 #mbApr Day 15</p>\n<p><a href=\"https://plumey.com/uploads/2024/5ced1902-9e45-41ed-8993-df52c63f00b8.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"a796ee9eacea97f7866a1f2b6a976f0d\"\n   \n>\n  <img src =\"https://plumey.com/uploads/2024/5ced1902-9e45-41ed-8993-df52c63f00b8.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A figurine resembling a painter with a palette stands in front of a notepad with a landscape painting, on a wooden surface, near a framed photo. Text on base: &amp;ldquo;Bob Ross®&amp;rdquo;.\" \n        \n  />\n</a>\n\n</p>\n<p>Photo of a small Bob Ross next to a small painting by Bob Ross.</p>\n",
-				"content_text": "📷 #mbApr Day 15\r\n\r\n![A figurine resembling a painter with a palette stands in front of a notepad with a landscape painting, on a wooden surface, near a framed photo. Text on base: \"Bob Ross®\".](https://plumey.com/uploads/2024/5ced1902-9e45-41ed-8993-df52c63f00b8.jpeg)\r\n\r\nPhoto of a small Bob Ross next to a small painting by Bob Ross. \n",
+				"content_html": "<p>📷 #mbApr Day 15</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/5ced1902-9e45-41ed-8993-df52c63f00b8.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"a796ee9eacea97f7866a1f2b6a976f0d\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/5ced1902-9e45-41ed-8993-df52c63f00b8.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A figurine resembling a painter with a palette stands in front of a notepad with a landscape painting, on a wooden surface, near a framed photo. Text on base: &amp;ldquo;Bob Ross®&amp;rdquo;.\" \n        \n  />\n</a>\n\n</p>\n<p>Photo of a small Bob Ross next to a small painting by Bob Ross.</p>\n",
+				"content_text": "📷 #mbApr Day 15\r\n\r\n![A figurine resembling a painter with a palette stands in front of a notepad with a landscape painting, on a wooden surface, near a framed photo. Text on base: \"Bob Ross®\".](https://cdn.uploads.micro.blog/27737/2024/5ced1902-9e45-41ed-8993-df52c63f00b8.jpeg)\r\n\r\nPhoto of a small Bob Ross next to a small painting by Bob Ross. \n",
 				"date_published": "2024-04-15T21:23:51-04:00",
 				"url": "https://plumey.com/2024/04/15/mbapr-day-photo.html"
 			},
