@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://plumey.micro.blog/2024/05/02/ive-been-going.html",
+				
+				"content_html": "<p>I’ve been going 100mph for the last few weeks! It got bad this week and I missed posting some photos at the end of the challenge. Things are slowing down a bit now and I’m looking forward to actually watching a movie soon.</p>\n",
+				"content_text": "I’ve been going 100mph for the last few weeks! It got bad this week and I missed posting some photos at the end of the challenge. Things are slowing down a bit now and I’m looking forward to actually watching a movie soon. \n",
+				"date_published": "2024-05-02T22:25:07-04:00",
+				"url": "https://plumey.com/2024/05/02/ive-been-going.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/04/29/exhibit-on-why.html",
+				
+				"content_html": "<p>Exhibit 1000 on why I stopped using the cesspool that has Meta&rsquo;s products have become.</p>\n<p><a href=\"https://www.fastcompany.com/91113437/ai-making-meta-apps-basically-unusable\">www.fastcompany.com/91113437/&hellip;</a></p>\n",
+				"content_text": "Exhibit 1000 on why I stopped using the cesspool that has Meta's products have become.\r\n\r\n[www.fastcompany.com/91113437/...](https://www.fastcompany.com/91113437/ai-making-meta-apps-basically-unusable)\r\n",
+				"date_published": "2024-04-29T08:54:45-04:00",
+				"url": "https://plumey.com/2024/04/29/exhibit-on-why.html",
+				"tags": ["tech"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/04/27/mbapr-day-missed.html",
+				
+				"content_html": "<p>📷 #mbApr Day 27</p>\n<p><a href=\"https://plumey.com/uploads/2024/img-0757.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"8bceaafbf8ec16804059e5b309b48013\"\n   \n>\n  <img src =\"https://plumey.com/uploads/2024/img-0757.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A small tan dog wearing a blue hoodie sits on a leopard print surface, looking to the side with its tongue slightly out.\" \n        \n  />\n</a>\n\n</p>\n<p>Missed a couple of days of the challenge…but here is our critter. She’s getting older and needing more attention from the vet. Still adorable.</p>\n",
+				"content_text": "📷 #mbApr Day 27\r\n\r\n![A small tan dog wearing a blue hoodie sits on a leopard print surface, looking to the side with its tongue slightly out.](https://plumey.com/uploads/2024/img-0757.jpeg)\r\n\r\nMissed a couple of days of the challenge…but here is our critter. She’s getting older and needing more attention from the vet. Still adorable. \n",
+				"date_published": "2024-04-27T09:27:24-04:00",
+				"url": "https://plumey.com/2024/04/27/mbapr-day-missed.html"
+			},
+			{
+				"id": "http://plumey.micro.blog/2024/04/27/drove-up-to.html",
+				
+				"content_html": "<p>Drove up to PA to take my son and his friends out for his 21st birthday. The traffic in the Baltimore area wasn’t greatt before, but the bridge collapse has made the problem much worse. This is going to be bad…</p>\n",
+				"content_text": "Drove up to PA to take my son and his friends out for his 21st birthday. The traffic in the Baltimore area wasn’t greatt before, but the bridge collapse has made the problem much worse. This is going to be bad…\n",
+				"date_published": "2024-04-27T08:36:27-04:00",
+				"url": "https://plumey.com/2024/04/27/drove-up-to.html",
+				"tags": ["life"]
+			},
+			{
 				"id": "http://plumey.micro.blog/2024/04/25/i-used-anthropics.html",
 				
 				"content_html": "<p>I used Anthropic&rsquo;s Claude today for the first time and it flat out invented quotes from Pope Benedict XVI. When I asked it for references, it apologized and said that was a summary of a statement he made but could not say where from. All of the links it referenced were old and none of them worked. Artificial, yes. Intelligence?  🤷🏽</p>\n",
@@ -26,8 +61,8 @@
 			{
 				"id": "http://plumey.micro.blog/2024/04/23/mbapr-day-very.html",
 				
-				"content_html": "<p>📷 #mbApr Day 23</p>\n<p><a href=\"https://plumey.com/uploads/2024/img-1427.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"6f1555040387980e95874760ff2d7d24\"\n   \n>\n  <img src =\"https://plumey.com/uploads/2024/img-1427.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A silhouette of a person stands with arms outstretched in a fog-filled room illuminated by blue light, creating an ethereal atmosphere.\" \n        \n  />\n</a>\n\n</p>\n<p>Very dreamy audio exhibit at Mercer Labs NYC.</p>\n",
-				"content_text": "📷 #mbApr Day 23\r\n\r\n![A silhouette of a person stands with arms outstretched in a fog-filled room illuminated by blue light, creating an ethereal atmosphere.](https://plumey.com/uploads/2024/img-1427.jpeg)\r\n\r\nVery dreamy audio exhibit at Mercer Labs NYC. \n",
+				"content_html": "<p>📷 #mbApr Day 23</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/img-1427.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"6f1555040387980e95874760ff2d7d24\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/img-1427.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A silhouette of a person stands with arms outstretched in a fog-filled room illuminated by blue light, creating an ethereal atmosphere.\" \n        \n  />\n</a>\n\n</p>\n<p>Very dreamy audio exhibit at Mercer Labs NYC.</p>\n",
+				"content_text": "📷 #mbApr Day 23\r\n\r\n![A silhouette of a person stands with arms outstretched in a fog-filled room illuminated by blue light, creating an ethereal atmosphere.](https://cdn.uploads.micro.blog/27737/2024/img-1427.jpeg)\r\n\r\nVery dreamy audio exhibit at Mercer Labs NYC. \n",
 				"date_published": "2024-04-23T20:01:45-04:00",
 				"url": "https://plumey.com/2024/04/23/mbapr-day-very.html"
 			},
@@ -43,8 +78,8 @@
 			{
 				"id": "http://plumey.micro.blog/2024/04/22/mbapr-day-pale.html",
 				
-				"content_html": "<p>📷 #mbApr Day 22</p>\n<p><a href=\"https://plumey.com/uploads/2024/dsc01024.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"a80a69d2d8630b98aa1200ee68ab3632\"\n   \n>\n  <img src =\"https://plumey.com/uploads/2024/dsc01024.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A waxing crescent moon is visible in the vast blue sky during daytime.\" \n        \n  />\n</a>\n\n</p>\n<p>Pale dot of a moon on a blue sky</p>\n",
-				"content_text": "📷 #mbApr Day 22\r\n\r\n![A waxing crescent moon is visible in the vast blue sky during daytime.](https://plumey.com/uploads/2024/dsc01024.jpeg)\r\n\r\nPale dot of a moon on a blue sky \n",
+				"content_html": "<p>📷 #mbApr Day 22</p>\n<p><a href=\"https://cdn.uploads.micro.blog/27737/2024/dsc01024.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"a80a69d2d8630b98aa1200ee68ab3632\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/27737/2024/dsc01024.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A waxing crescent moon is visible in the vast blue sky during daytime.\" \n        \n  />\n</a>\n\n</p>\n<p>Pale dot of a moon on a blue sky</p>\n",
+				"content_text": "📷 #mbApr Day 22\r\n\r\n![A waxing crescent moon is visible in the vast blue sky during daytime.](https://cdn.uploads.micro.blog/27737/2024/dsc01024.jpeg)\r\n\r\nPale dot of a moon on a blue sky \n",
 				"date_published": "2024-04-22T21:44:20-04:00",
 				"url": "https://plumey.com/2024/04/22/mbapr-day-pale.html"
 			},
