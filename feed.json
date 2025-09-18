@@ -7,12 +7,21 @@
 	"items": [
 		
 			{
+				"id": "http://plumey.micro.blog/2025/09/18/currently-reading-the-inimitable-jeeves.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780486838182\">The Inimitable Jeeves</a> by P. G. Wodehouse 📚</p>\n",
+				"content_text": "Currently reading: [The Inimitable Jeeves](https://micro.blog/books/9780486838182) by P. G. Wodehouse 📚\n",
+				"date_published": "2025-09-18T17:51:08-04:00",
+				"url": "https://plumey.com/2025/09/18/currently-reading-the-inimitable-jeeves.html"
+			},
+			{
 				"id": "http://plumey.micro.blog/2025/09/16/babel-by-r-f-kuang.html",
 				
 				"content_html": "<p>★★★☆☆ <a href=\"https://micro.blog/books/9780008501853\">Babel</a> by R. F Kuang 📚</p>\n<p>Interesting premise, well-written. I did not like the ending!</p>\n",
 				"content_text": "★★★☆☆ [Babel](https://micro.blog/books/9780008501853) by R. F Kuang 📚\n\nInteresting premise, well-written. I did not like the ending! \n",
 				"date_published": "2025-09-16T22:03:05-04:00",
-				"url": "https://plumey.com/2025/09/16/babel-by-r-f-kuang.html"
+				"url": "https://plumey.com/2025/09/16/babel-by-r-f-kuang.html",
+				"tags": ["media","books"]
 			},
 			{
 				"id": "http://plumey.micro.blog/2025/09/13/currently-reading-a-failure-of.html",
