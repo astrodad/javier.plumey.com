@@ -7,12 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://plumey.micro.blog/2025/10/01/sphere-by-michael-crichton-what.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780307816481/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>★★★☆☆ <a href=\"https://micro.blog/books/9780307816481\">Sphere</a> by Michael Crichton 📚</p>\n<p>What a frustrating book. The characters all grated me immensely. Even the main character. And the whole thing was much too long with a very unsatisfying ending. The narration on the audio book was good however.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780307816481/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n★★★☆☆ [Sphere](https://micro.blog/books/9780307816481) by Michael Crichton 📚\n\nWhat a frustrating book. The characters all grated me immensely. Even the main character. And the whole thing was much too long with a very unsatisfying ending. The narration on the audio book was good however. \n",
+				"date_published": "2025-10-01T19:24:31-04:00",
+				"url": "https://plumey.com/2025/10/01/sphere-by-michael-crichton-what.html"
+			},
+			{
+				"id": "http://plumey.micro.blog/2025/09/27/men-in-black-i-introduced.html",
+				
+				"content_html": "<p>★★★☆☆ <a href=\"https://callsheetapp.com/movie/607\">Men in Black (1997) </a></p>\n<p>I introduced this to my son and he enjoyed it. I had forgotten some of its better lines. Overall the movie has held up well.</p>\n",
+				"content_text": "★★★☆☆ [Men in Black (1997) ](https://callsheetapp.com/movie/607)\n\nI introduced this to my son and he enjoyed it. I had forgotten some of its better lines. Overall the movie has held up well. \n",
+				"date_published": "2025-09-27T21:43:42-04:00",
+				"url": "https://plumey.com/2025/09/27/men-in-black-i-introduced.html",
+				"tags": ["media","movies"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2025/09/24/currently-reading-sphere-by-michael.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780307816481/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780307816481\">Sphere</a> by Michael Crichton 📚</p>\n<p>I started this as an audiobook because I spend an eternity in the car now that school is back in session.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780307816481/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Sphere](https://micro.blog/books/9780307816481) by Michael Crichton 📚 \n\nI started this as an audiobook because I spend an eternity in the car now that school is back in session. \n",
+				"date_published": "2025-09-24T22:32:33-04:00",
+				"url": "https://plumey.com/2025/09/24/currently-reading-sphere-by-michael.html"
+			},
+			{
 				"id": "http://plumey.micro.blog/2025/09/24/the-inimitable-jeeves-by-p.html",
 				
-				"content_html": "<img src=\"https://micro.blog/books/9780486838182/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>★★★☆☆ : <a href=\"https://micro.blog/books/9780486838182\">The Inimitable Jeeves</a> by P. G. Wodehouse 📚</p>\n<p>This was my first time reading Wodehouse and I really enjoyed it. Wooster is hilarious and Jeeves is brilliant.</p>\n",
-				"content_text": "<img src=\"https://micro.blog/books/9780486838182/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n★★★☆☆ : [The Inimitable Jeeves](https://micro.blog/books/9780486838182) by P. G. Wodehouse 📚\n\nThis was my first time reading Wodehouse and I really enjoyed it. Wooster is hilarious and Jeeves is brilliant. \n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780486838182/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>★★★☆☆ : <a href=\"https://micro.blog/books/9780486838182\">The Inimitable Jeeves</a> by P. G. Wodehouse 📚</p>\n<p>This was my first time reading Wodehouse and I really enjoyed it. Wooster is hilarious and Jeeves is brilliant.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780486838182/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n★★★☆☆ : [The Inimitable Jeeves](https://micro.blog/books/9780486838182) by P. G. Wodehouse 📚\n\nThis was my first time reading Wodehouse and I really enjoyed it. Wooster is hilarious and Jeeves is brilliant. \n",
 				"date_published": "2025-09-24T22:30:23-04:00",
-				"url": "https://plumey.com/2025/09/24/the-inimitable-jeeves-by-p.html"
+				"url": "https://plumey.com/2025/09/24/the-inimitable-jeeves-by-p.html",
+				"tags": ["media","books"]
 			},
 			{
 				"id": "http://plumey.micro.blog/2025/09/21/mission-impossible-the-final-reckoning.html",
@@ -26,8 +52,8 @@
 			{
 				"id": "http://plumey.micro.blog/2025/09/18/currently-reading-the-inimitable-jeeves.html",
 				
-				"content_html": "<img src=\"https://micro.blog/books/9780486838182/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780486838182\">The Inimitable Jeeves</a> by P. G. Wodehouse 📚</p>\n",
-				"content_text": "<img src=\"https://micro.blog/books/9780486838182/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Inimitable Jeeves](https://micro.blog/books/9780486838182) by P. G. Wodehouse 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780486838182/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780486838182\">The Inimitable Jeeves</a> by P. G. Wodehouse 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780486838182/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Inimitable Jeeves](https://micro.blog/books/9780486838182) by P. G. Wodehouse 📚\n",
 				"date_published": "2025-09-18T17:51:08-04:00",
 				"url": "https://plumey.com/2025/09/18/currently-reading-the-inimitable-jeeves.html"
 			},
