@@ -7,11 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://plumey.micro.blog/2025/11/21/currently-reading-proven-guilty-by.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780451461032/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780451461032\">Proven Guilty</a> by Jim Butcher 📚</p>\n<p>This series is a go-to when I need a palette cleanser before or after reading something heavy.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780451461032/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Proven Guilty](https://micro.blog/books/9780451461032) by Jim Butcher 📚\n\nThis series is a go-to when I need a palette cleanser before or after reading something heavy. \n",
+				"date_published": "2025-11-21T15:07:01-05:00",
+				"url": "https://plumey.com/2025/11/21/currently-reading-proven-guilty-by.html"
+			},
+			{
+				"id": "http://plumey.micro.blog/2025/11/17/the-scar-by-china-miville.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780330466998/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>★★★★☆<a href=\"https://micro.blog/books/9780330466998\">The Scar</a> by China Miéville 📚</p>\n<p>China Miéville is a master. His prose is incredible. I had to pause and look up many words! The story was a bit too long  and sometimes the characters had long-winded, unnatural monologues. I didn’t realize this was a sequel of Perdido Street Station so now I need to go read it!</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780330466998/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n★★★★☆[The Scar](https://micro.blog/books/9780330466998) by China Miéville 📚\n\nChina Miéville is a master. His prose is incredible. I had to pause and look up many words! The story was a bit too long  and sometimes the characters had long-winded, unnatural monologues. I didn’t realize this was a sequel of Perdido Street Station so now I need to go read it!\n",
+				"date_published": "2025-11-17T21:31:30-05:00",
+				"url": "https://plumey.com/2025/11/17/the-scar-by-china-miville.html",
+				"tags": ["media","books"]
+			},
+			{
 				"id": "http://plumey.micro.blog/2025/11/15/star-trek-strange-new-worlds.html",
 				
 				"content_html": "<p>★★★★☆ <a href=\"https://callsheetapp.com/tv/103516/season/3\">Star Trek: Strange New Worlds Season 3</a></p>\n<p>A good season overall. The last episode almost killed it for me though. It was totally nonsensical. Still, I love the show. I love the crew. I hope there’s more to come.</p>\n",
 				"content_text": "★★★★☆ [Star Trek: Strange New Worlds Season 3](https://callsheetapp.com/tv/103516/season/3)\n\nA good season overall. The last episode almost killed it for me though. It was totally nonsensical. Still, I love the show. I love the crew. I hope there’s more to come. \n",
-				"date_published": "2025-11-15T23:25:25-04:00",
+				"date_published": "2025-11-15T22:25:25-05:00",
 				"url": "https://plumey.com/2025/11/15/star-trek-strange-new-worlds.html",
 				"tags": ["media","tv"]
 			},
@@ -20,7 +37,7 @@
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9781250256744/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>★★★★☆: <a href=\"https://micro.blog/books/9781250256744\">Axiom&rsquo;s End</a> by Lindsay Ellis 📚</p>\n<p>I picked this up while driving in a tunnel at 55mpg with a recommendation from ChatGPT (don&rsquo;t mock me), and had the Audible book loaded in about 20 seconds. I did not have high expectations based on the source of the recommendation, but I was pleasantly surprised! It was a little long-winded at time, but I enjoyed the action, most of the characters, and the dynamic between Ampersand and Cora was really good for the most part.</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781250256744/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n★★★★☆: [Axiom's End](https://micro.blog/books/9781250256744) by Lindsay Ellis 📚\n\nI picked this up while driving in a tunnel at 55mpg with a recommendation from ChatGPT (don't mock me), and had the Audible book loaded in about 20 seconds. I did not have high expectations based on the source of the recommendation, but I was pleasantly surprised! It was a little long-winded at time, but I enjoyed the action, most of the characters, and the dynamic between Ampersand and Cora was really good for the most part.\n",
-				"date_published": "2025-10-17T14:31:06-04:00",
+				"date_published": "2025-10-17T13:31:06-05:00",
 				"url": "https://plumey.com/2025/10/17/axioms-end-by-lindsay-ellis.html",
 				"tags": ["media","books"]
 			},
@@ -29,7 +46,7 @@
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9781250256744/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781250256744\">Axiom&rsquo;s End</a> by Lindsay Ellis 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781250256744/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Axiom's End](https://micro.blog/books/9781250256744) by Lindsay Ellis 📚\n",
-				"date_published": "2025-10-03T21:06:15-04:00",
+				"date_published": "2025-10-03T20:06:15-05:00",
 				"url": "https://plumey.com/2025/10/03/currently-reading-axioms-end-by.html"
 			},
 			{
