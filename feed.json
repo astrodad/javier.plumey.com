@@ -7,12 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://plumey.micro.blog/2026/01/11/avatar-the-way-of-water.html",
+				
+				"content_html": "<p><!-- raw HTML omitted -->★★★☆☆ Avatar: The Way of Water (2022)](<a href=\"https://callsheetapp.com/movie/76600\">https://callsheetapp.com/movie/76600</a>)</p>\n<p>Finally got around to watching this. It wasn’t bad but sort of boring. The visuals were of course very good but the story didn’t resonate. I think it tried too hard to have emotional connection and failed.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2026/c777623d1f.png\" alt=\"A poster for Avatar: The Way of Water features several blue-skinned characters and a person riding a creature over the ocean at sunset.\" width=\"[80\">★★★☆☆ Avatar: The Way of Water (2022)](https://callsheetapp.com/movie/76600)\n\nFinally got around to watching this. It wasn’t bad but sort of boring. The visuals were of course very good but the story didn’t resonate. I think it tried too hard to have emotional connection and failed. \n\n<img src=\"uploads/2026/c777623d1f.png\" width=\"342\" height=\"513\" alt=\"A poster for Avatar: The Way of Water features several blue-skinned characters and a person riding a creature over the ocean at sunset.\">\n",
+				"date_published": "2026-01-11T08:53:21-05:00",
+				"url": "https://plumey.com/2026/01/11/avatar-the-way-of-water.html",
+				"tags": ["media","movies"]
+			},
+			{
 				"id": "http://plumey.micro.blog/2026/01/09/legends-lattes-by-travis-baldree.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>★★★☆☆ <a href=\"https://micro.blog/books/9781250886095\">Legends &amp; Lattes</a> by Travis Baldree 📚</p>\n<p>I saw this on Jason Snell’s Goodreads and figured I’d give it a shot. It’s definitely a cozy read. I liked all the characters and it made me feel all warm and toasty reading it.</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781250886095/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n★★★☆☆ [Legends & Lattes](https://micro.blog/books/9781250886095) by Travis Baldree 📚\n\nI saw this on Jason Snell’s Goodreads and figured I’d give it a shot. It’s definitely a cozy read. I liked all the characters and it made me feel all warm and toasty reading it. \n",
 				"date_published": "2026-01-09T21:35:52-05:00",
-				"url": "https://plumey.com/2026/01/09/legends-lattes-by-travis-baldree.html"
+				"url": "https://plumey.com/2026/01/09/legends-lattes-by-travis-baldree.html",
+				"tags": ["media","books"]
 			},
 			{
 				"id": "http://plumey.micro.blog/2026/01/05/percy-jackson-and-the-olympians.html",
@@ -45,7 +55,7 @@
 				"id": "http://plumey.micro.blog/2026/01/01/pluribus-season-i-really-enjoyed.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --> ★★★★☆ <a href=\"https://callsheetapp.com/tv/225171\">Pluribus</a> Season 1 (2025)</p>\n<p>I really enjoyed this first season. I know some people have issues with the pacing but I quite like the slow methodical nature of the cinematography. 📺</p>\n",
-				"content_text": "<img src=\"uploads/2026/0aa626d830.png\" alt=\"\" width=\"150\" style=\"width: 150px;\"> ★★★★☆ [Pluribus](https://callsheetapp.com/tv/225171) Season 1 (2025)\n\nI really enjoyed this first season. I know some people have issues with the pacing but I quite like the slow methodical nature of the cinematography. 📺\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/27737/2026/0aa626d830.png\" alt=\"\" width=\"150\" style=\"width: 150px;\"> ★★★★☆ [Pluribus](https://callsheetapp.com/tv/225171) Season 1 (2025)\n\nI really enjoyed this first season. I know some people have issues with the pacing but I quite like the slow methodical nature of the cinematography. 📺\n",
 				"date_published": "2026-01-01T15:08:30-05:00",
 				"url": "https://plumey.com/2026/01/01/pluribus-season-i-really-enjoyed.html",
 				"tags": ["media","tv"]
@@ -125,8 +135,8 @@
 			{
 				"id": "http://plumey.micro.blog/2025/11/30/ballerina-ridiculous-but-fun.html",
 				
-				"content_html": "<p><!-- raw HTML omitted -->★★★☆ <a href=\"https://callsheetapp.com/movie/541671\">Ballerina (2025)</a></p>\n<p>Ridiculous but fun.</p>\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/27737/2026/8117bd7b62.png\" alt=\"\"  width=\"80\">★★★☆ [Ballerina (2025)](https://callsheetapp.com/movie/541671)\n\nRidiculous but fun. \n",
+				"content_html": "<p>★★★☆ <a href=\"https://callsheetapp.com/movie/541671\">Ballerina (2025)</a></p>\n<p>Ridiculous but fun.</p>\n",
+				"content_text": "★★★☆ [Ballerina (2025)](https://callsheetapp.com/movie/541671)\n\nRidiculous but fun. \n",
 				"date_published": "2025-11-30T16:32:56-05:00",
 				"url": "https://plumey.com/2025/11/30/ballerina-ridiculous-but-fun.html",
 				"tags": ["media","movies"]
@@ -134,8 +144,8 @@
 			{
 				"id": "http://plumey.micro.blog/2025/11/29/superman-im-not-sure-what.html",
 				
-				"content_html": "<p><!-- raw HTML omitted -->★★★☆☆ <a href=\"https://www.themoviedb.org/movie/1061474\">Superman (2025)</a> 🍿</p>\n<p>I’m not sure what to think about this one. I’m a huge Superman fan and while I liked the portrayal, the whole thing was superficial and sort of cheap. I liked the supporting cast overall and some of the humor was cute. Krypto was 🔥.</p>\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/27737/2026/88edb16cad.png\" alt=\"\"  width=\"80\">★★★☆☆ [Superman (2025)](https://www.themoviedb.org/movie/1061474) 🍿\n\nI’m not sure what to think about this one. I’m a huge Superman fan and while I liked the portrayal, the whole thing was superficial and sort of cheap. I liked the supporting cast overall and some of the humor was cute. Krypto was 🔥. \n",
+				"content_html": "<p>★★★☆☆ <a href=\"https://www.themoviedb.org/movie/1061474\">Superman (2025)</a> 🍿</p>\n<p>I’m not sure what to think about this one. I’m a huge Superman fan and while I liked the portrayal, the whole thing was superficial and sort of cheap. I liked the supporting cast overall and some of the humor was cute. Krypto was 🔥.</p>\n",
+				"content_text": "★★★☆☆ [Superman (2025)](https://www.themoviedb.org/movie/1061474) 🍿\n\nI’m not sure what to think about this one. I’m a huge Superman fan and while I liked the portrayal, the whole thing was superficial and sort of cheap. I liked the supporting cast overall and some of the humor was cute. Krypto was 🔥. \n",
 				"date_published": "2025-11-29T18:57:24-05:00",
 				"url": "https://plumey.com/2025/11/29/superman-im-not-sure-what.html",
 				"tags": ["media","movies"]
@@ -143,8 +153,8 @@
 			{
 				"id": "http://plumey.micro.blog/2025/11/26/jurassic-world-rebirth-some-cool.html",
 				
-				"content_html": "<p><!-- raw HTML omitted -->★★★☆☆ <a href=\"https://callsheetapp.com/movie/1234821\">Jurassic World Rebirth </a></p>\n<p>Some cool new dinosaurs, but utterly predictable. My wife and I enjoyed the first half hour predicting who would die and we were on the money. There were a couple of cool nods to the original though.</p>\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/27737/2026/a9e862ad8f.png\" alt=\"\"  width=\"80\">★★★☆☆ [Jurassic World Rebirth ](https://callsheetapp.com/movie/1234821)\n\nSome cool new dinosaurs, but utterly predictable. My wife and I enjoyed the first half hour predicting who would die and we were on the money. There were a couple of cool nods to the original though. \n",
+				"content_html": "<p>★★★☆☆ <a href=\"https://callsheetapp.com/movie/1234821\">Jurassic World Rebirth </a></p>\n<p>Some cool new dinosaurs, but utterly predictable. My wife and I enjoyed the first half hour predicting who would die and we were on the money. There were a couple of cool nods to the original though.</p>\n",
+				"content_text": "★★★☆☆ [Jurassic World Rebirth ](https://callsheetapp.com/movie/1234821)\n\nSome cool new dinosaurs, but utterly predictable. My wife and I enjoyed the first half hour predicting who would die and we were on the money. There were a couple of cool nods to the original though. \n",
 				"date_published": "2025-11-26T23:48:32-05:00",
 				"url": "https://plumey.com/2025/11/26/jurassic-world-rebirth-some-cool.html",
 				"tags": ["media","movies"]
@@ -162,7 +172,7 @@
 				"id": "http://plumey.micro.blog/2025/11/22/wicked-for-good-i-greatly.html",
 				
 				"content_html": "<p><!-- raw HTML omitted -->★★★★★ <a href=\"https://www.themoviedb.org/movie/967941\">Wicked: For Good</a> 🍿</p>\n<p>I greatly enjoyed the movie! It made me feel feelings and think thinkings. As expected the music was amazing and the actors nailed their parts.</p>\n",
-				"content_text": "<img src=\"uploads/2026/c8f54c56bc.png\" alt=\"\"  width=\"80\">★★★★★ [Wicked: For Good](https://www.themoviedb.org/movie/967941) 🍿\n\nI greatly enjoyed the movie! It made me feel feelings and think thinkings. As expected the music was amazing and the actors nailed their parts. \n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/27737/2026/c8f54c56bc.png\" alt=\"\"  width=\"80\">★★★★★ [Wicked: For Good](https://www.themoviedb.org/movie/967941) 🍿\n\nI greatly enjoyed the movie! It made me feel feelings and think thinkings. As expected the music was amazing and the actors nailed their parts. \n",
 				"date_published": "2025-11-22T22:03:30-05:00",
 				"url": "https://plumey.com/2025/11/22/wicked-for-good-i-greatly.html",
 				"tags": ["media","movies"]
