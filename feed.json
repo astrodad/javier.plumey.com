@@ -7,12 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://plumey.micro.blog/2026/02/03/harry-potter-and-the-chamber.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>★★★☆☆<a href=\"https://micro.blog/books/9781551922447\">Harry Potter and the Chamber of Secrets</a> by J. K. Rowling 📚</p>\n<p>Athough it&rsquo;s not my favorite of the Harry Potter series, after listening to it again I appreciated the way it subtly introduces much of the concepts regarding Harry and Voldemort later in the series. Other than the annoying voice for Ginny Weasley, the audio narration on this one is top notch. Although I&rsquo;m still on the fence on whether I prefer Jim Dale to Stephen Fry, you really can&rsquo;t go wrong with either.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781551922447/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n★★★☆☆[Harry Potter and the Chamber of Secrets](https://micro.blog/books/9781551922447) by J. K. Rowling 📚\n\nAthough it's not my favorite of the Harry Potter series, after listening to it again I appreciated the way it subtly introduces much of the concepts regarding Harry and Voldemort later in the series. Other than the annoying voice for Ginny Weasley, the audio narration on this one is top notch. Although I'm still on the fence on whether I prefer Jim Dale to Stephen Fry, you really can't go wrong with either.\n",
+				"date_published": "2026-02-03T07:58:22-05:00",
+				"url": "https://plumey.com/2026/02/03/harry-potter-and-the-chamber.html",
+				"tags": ["media","books"]
+			},
+			{
 				"id": "http://plumey.micro.blog/2026/02/02/peter-and-the-starcatchers-by.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>★★★★☆ <a href=\"https://micro.blog/books/9781417734429\">Peter and the Starcatchers</a> by Dave Barry 📚</p>\n<p>This was a surprisingly delightful read. I’m not sure what I expected, but enjoyed the premise for Peter Pan’s backstory so much that I’m probably going to read the sequels.</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781417734429/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n★★★★☆ [Peter and the Starcatchers](https://micro.blog/books/9781417734429) by Dave Barry 📚\n\nThis was a surprisingly delightful read. I’m not sure what I expected, but enjoyed the premise for Peter Pan’s backstory so much that I’m probably going to read the sequels. \n",
 				"date_published": "2026-02-02T07:34:23-05:00",
-				"url": "https://plumey.com/2026/02/02/peter-and-the-starcatchers-by.html"
+				"url": "https://plumey.com/2026/02/02/peter-and-the-starcatchers-by.html",
+				"tags": ["media","books"]
 			},
 			{
 				"id": "http://plumey.micro.blog/2026/01/26/class-clown-by-dave-barry.html",
