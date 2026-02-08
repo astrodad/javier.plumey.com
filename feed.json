@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://plumey.micro.blog/2026/02/08/the-gorge-i-enjoyed-it.html",
+				
+				"content_html": "<p><!-- raw HTML omitted -->★★★★☆ <a href=\"https://callsheetapp.com/movie/950396\">The Gorge (2025)</a></p>\n<p>I enjoyed it. The premise is somewhat interesting if improbable. I like Anya Taylor-Joy and this was a good role for her. The ending was fine, although the final lines didn&rsquo;t connect in any meaningful way. Call it a love story with a horror-ish vibe.</p>\n",
+				"content_text": "<img src=\"uploads/2026/bf1d2eaf04.png\" alt=\"\" width=\"80px\">★★★★☆ [The Gorge (2025)](https://callsheetapp.com/movie/950396)\n\nI enjoyed it. The premise is somewhat interesting if improbable. I like Anya Taylor-Joy and this was a good role for her. The ending was fine, although the final lines didn't connect in any meaningful way. Call it a love story with a horror-ish vibe.\n",
+				"date_published": "2026-02-08T10:22:40-05:00",
+				"url": "https://plumey.com/2026/02/08/the-gorge-i-enjoyed-it.html",
+				"tags": ["media","movies"]
+			},
+			{
 				"id": "http://plumey.micro.blog/2026/02/03/harry-potter-and-the-chamber.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>★★★☆☆<a href=\"https://micro.blog/books/9781551922447\">Harry Potter and the Chamber of Secrets</a> by J. K. Rowling 📚</p>\n<p>Athough it&rsquo;s not my favorite of the Harry Potter series, after listening to it again I appreciated the way it subtly introduces much of the concepts regarding Harry and Voldemort later in the series. Other than the annoying voice for Ginny Weasley, the audio narration on this one is top notch. Although I&rsquo;m still on the fence on whether I prefer Jim Dale to Stephen Fry, you really can&rsquo;t go wrong with either.</p>\n",
@@ -46,7 +55,7 @@
 				"id": "http://plumey.micro.blog/2026/01/19/the-eternals-i-almost-didnt.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>★★★☆☆ <a href=\"https://callsheetapp.com/movie/524434\">The Eternals (2025)</a></p>\n<p>I almost didn&rsquo;t finish this one, but I&rsquo;m a sucker for stories about dysfunctional families, and I&rsquo;m glad I finished it.</p>\n",
-				"content_text": "<img src=\"uploads/2026/1805bbb9f8.png\" alt=\"\" width=\"80px\">\n\n★★★☆☆ [The Eternals (2025)](https://callsheetapp.com/movie/524434)\n\nI almost didn't finish this one, but I'm a sucker for stories about dysfunctional families, and I'm glad I finished it. \n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/27737/2026/1805bbb9f8.png\" alt=\"\" width=\"80px\">\n\n★★★☆☆ [The Eternals (2025)](https://callsheetapp.com/movie/524434)\n\nI almost didn't finish this one, but I'm a sucker for stories about dysfunctional families, and I'm glad I finished it. \n",
 				"date_published": "2026-01-19T21:01:49-05:00",
 				"url": "https://plumey.com/2026/01/19/the-eternals-i-almost-didnt.html",
 				"tags": ["media","movies"]
@@ -100,7 +109,7 @@
 				"id": "http://plumey.micro.blog/2026/01/04/the-shadows-edge-excellent-deep.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>★★★★☆ <a href=\"https://callsheetapp.com/movie/1419406\">The Shadow’s Edge (2025)</a> 🍿</p>\n<p>Excellent! Deep character stories and amazing action scenes</p>\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/27737/2026/2b6e585a29.png\" alt=\"\" width=\"150\" style=\"width: 150px;\"> \n\n★★★★☆ [The Shadow’s Edge (2025)](https://callsheetapp.com/movie/1419406) 🍿\n\nExcellent! Deep character stories and amazing action scenes\n",
+				"content_text": "<img src=\"uploads/2026/2b6e585a29.png\" alt=\"\" width=\"150\" style=\"width: 150px;\"> \n\n★★★★☆ [The Shadow’s Edge (2025)](https://callsheetapp.com/movie/1419406) 🍿\n\nExcellent! Deep character stories and amazing action scenes\n",
 				"date_published": "2026-01-04T19:46:37-05:00",
 				"url": "https://plumey.com/2026/01/04/the-shadows-edge-excellent-deep.html",
 				"tags": ["media","movies"]
@@ -198,8 +207,8 @@
 			{
 				"id": "http://plumey.micro.blog/2025/11/30/ballerina-ridiculous-but-fun.html",
 				
-				"content_html": "<p><!-- raw HTML omitted -->★★★☆ <a href=\"https://callsheetapp.com/movie/541671\">Ballerina (2025)</a></p>\n<p>Ridiculous but fun.</p>\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/27737/2026/8117bd7b62.png\" alt=\"\"  width=\"80\">★★★☆ [Ballerina (2025)](https://callsheetapp.com/movie/541671)\n\nRidiculous but fun. \n",
+				"content_html": "<p>★★★☆ <a href=\"https://callsheetapp.com/movie/541671\">Ballerina (2025)</a></p>\n<p>Ridiculous but fun.</p>\n",
+				"content_text": "★★★☆ [Ballerina (2025)](https://callsheetapp.com/movie/541671)\n\nRidiculous but fun. \n",
 				"date_published": "2025-11-30T16:32:56-05:00",
 				"url": "https://plumey.com/2025/11/30/ballerina-ridiculous-but-fun.html",
 				"tags": ["media","movies"]
@@ -207,8 +216,8 @@
 			{
 				"id": "http://plumey.micro.blog/2025/11/29/superman-im-not-sure-what.html",
 				
-				"content_html": "<p><!-- raw HTML omitted -->★★★☆☆ <a href=\"https://www.themoviedb.org/movie/1061474\">Superman (2025)</a> 🍿</p>\n<p>I’m not sure what to think about this one. I’m a huge Superman fan and while I liked the portrayal, the whole thing was superficial and sort of cheap. I liked the supporting cast overall and some of the humor was cute. Krypto was 🔥.</p>\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/27737/2026/88edb16cad.png\" alt=\"\"  width=\"80\">★★★☆☆ [Superman (2025)](https://www.themoviedb.org/movie/1061474) 🍿\n\nI’m not sure what to think about this one. I’m a huge Superman fan and while I liked the portrayal, the whole thing was superficial and sort of cheap. I liked the supporting cast overall and some of the humor was cute. Krypto was 🔥. \n",
+				"content_html": "<p>★★★☆☆ <a href=\"https://www.themoviedb.org/movie/1061474\">Superman (2025)</a> 🍿</p>\n<p>I’m not sure what to think about this one. I’m a huge Superman fan and while I liked the portrayal, the whole thing was superficial and sort of cheap. I liked the supporting cast overall and some of the humor was cute. Krypto was 🔥.</p>\n",
+				"content_text": "★★★☆☆ [Superman (2025)](https://www.themoviedb.org/movie/1061474) 🍿\n\nI’m not sure what to think about this one. I’m a huge Superman fan and while I liked the portrayal, the whole thing was superficial and sort of cheap. I liked the supporting cast overall and some of the humor was cute. Krypto was 🔥. \n",
 				"date_published": "2025-11-29T18:57:24-05:00",
 				"url": "https://plumey.com/2025/11/29/superman-im-not-sure-what.html",
 				"tags": ["media","movies"]
@@ -216,8 +225,8 @@
 			{
 				"id": "http://plumey.micro.blog/2025/11/26/jurassic-world-rebirth-some-cool.html",
 				
-				"content_html": "<p><!-- raw HTML omitted -->★★★☆☆ <a href=\"https://callsheetapp.com/movie/1234821\">Jurassic World Rebirth </a></p>\n<p>Some cool new dinosaurs, but utterly predictable. My wife and I enjoyed the first half hour predicting who would die and we were on the money. There were a couple of cool nods to the original though.</p>\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/27737/2026/a9e862ad8f.png\" alt=\"\"  width=\"80\">★★★☆☆ [Jurassic World Rebirth ](https://callsheetapp.com/movie/1234821)\n\nSome cool new dinosaurs, but utterly predictable. My wife and I enjoyed the first half hour predicting who would die and we were on the money. There were a couple of cool nods to the original though. \n",
+				"content_html": "<p>★★★☆☆ <a href=\"https://callsheetapp.com/movie/1234821\">Jurassic World Rebirth </a></p>\n<p>Some cool new dinosaurs, but utterly predictable. My wife and I enjoyed the first half hour predicting who would die and we were on the money. There were a couple of cool nods to the original though.</p>\n",
+				"content_text": "★★★☆☆ [Jurassic World Rebirth ](https://callsheetapp.com/movie/1234821)\n\nSome cool new dinosaurs, but utterly predictable. My wife and I enjoyed the first half hour predicting who would die and we were on the money. There were a couple of cool nods to the original though. \n",
 				"date_published": "2025-11-26T23:48:32-05:00",
 				"url": "https://plumey.com/2025/11/26/jurassic-world-rebirth-some-cool.html",
 				"tags": ["media","movies"]
