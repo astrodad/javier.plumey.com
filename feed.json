@@ -7,12 +7,21 @@
 	"items": [
 		
 			{
+				"id": "http://plumey.micro.blog/2026/10/28/finished-reading-heir-of-fire.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781639730995/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781639730995\">Heir of Fire</a> by Sarah J. Maas 📚</p>\n<p>Enjoyable, although there were long stretches of boring stuff that happened to what seems to be a minor character. I assume they’ll come back into the mix later.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781639730995/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Heir of Fire](https://micro.blog/books/9781639730995) by Sarah J. Maas 📚\n\nEnjoyable, although there were long stretches of boring stuff that happened to what seems to be a minor character. I assume they’ll come back into the mix later. \n",
+				"date_published": "2026-10-28T22:30:21-04:00",
+				"url": "https://plumey.com/2026/10/28/finished-reading-heir-of-fire.html"
+			},
+			{
 				"id": "http://plumey.micro.blog/2026/10/11/sunrise-on-the-reaping-a.html",
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9781546171478/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>★★★☆☆: <a href=\"https://micro.blog/books/9781546171478\">Sunrise on the Reaping (A Hunger Games Novel)</a> by Suzanne Collins 📚</p>\n<p>Predictable but also hard to put down.</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781546171478/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n★★★☆☆: [Sunrise on the Reaping (A Hunger Games Novel)](https://micro.blog/books/9781546171478) by Suzanne Collins 📚 \n\nPredictable but also hard to put down. \n",
 				"date_published": "2026-10-11T17:38:56-04:00",
-				"url": "https://plumey.com/2026/10/11/sunrise-on-the-reaping-a.html"
+				"url": "https://plumey.com/2026/10/11/sunrise-on-the-reaping-a.html",
+				"tags": ["media","books"]
 			},
 			{
 				"id": "http://plumey.micro.blog/2026/09/26/supergirl-i-know-its-not.html",
